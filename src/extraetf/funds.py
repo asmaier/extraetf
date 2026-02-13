@@ -1,5 +1,4 @@
-import requests
-from typing import Literal
+
 
 BASE_URL = "https://extraetf.com/api-v3/funds/search/full"
 
