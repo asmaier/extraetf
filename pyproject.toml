@@ -1,0 +1,53 @@
+[project]
+name = "extraetf_scraper"
+version = "0.1.0"
+description = "Web scraper for ETF data from extraetf website."
+authors = [
+    { name = "asmaier", email = "asmaier@web.de" }
+]
+readme = "README.md"
+license = "MIT"
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "License :: OSI Approved :: MIT License",
+    "Natural Language :: English",
+    "Natural Language :: German",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Office/Business :: Financial :: Investment",
+]
+
+requires-python = ">=3.12"
+dependencies = [
+    "pandas<2.4.0",
+    "requests>=2.32.5",
+]
+
+[dependency-groups]
+dev = [
+    "autogluon>=1.5.0",
+    "jupyter>=1.1.1",
+    "plotly-express>=0.4.1",
+    "pytest>=8.3.4",
+    "ruff>=0.8.4",
+]
+
+[project.urls]
+Homepage = "https://github.com/asmaier/extraetf"
+
+[tool.ruff]
+target-version = "py312"
+line-length = 120
+
+[tool.ruff.lint]
+extend-select = ["E", "F"]
+
+[tool.hatch.build.targets.sdist]
+include = ["src/extraetf"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/extraetf"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+

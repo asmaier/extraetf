@@ -1,0 +1,2116 @@
+{
+  "filters": {
+    "branch": [
+      {
+        "count": 45,
+        "name": "Abfallwirtschaft",
+        "id": 31090
+      },
+      {
+        "count": 63,
+        "name": "Andere Energiequellen",
+        "id": 30920
+      },
+      {
+        "count": 295,
+        "name": "Arzneimittelhersteller",
+        "id": 20620
+      },
+      {
+        "count": 361,
+        "name": "Banken",
+        "id": 10320
+      },
+      {
+        "count": 47,
+        "name": "Baustoffe",
+        "id": 10120
+      },
+      {
+        "count": 37,
+        "name": "Bildung",
+        "id": 20540
+      },
+      {
+        "count": 561,
+        "name": "Biotechnologie",
+        "id": 20610
+      },
+      {
+        "count": 199,
+        "name": "Chemikalien",
+        "id": 10130
+      },
+      {
+        "count": 79,
+        "name": "Defensiver Einzelhandel",
+        "id": 20550
+      },
+      {
+        "count": 152,
+        "name": "Dienstleistungen für Unternehmen",
+        "id": 31020
+      },
+      {
+        "count": 20,
+        "name": "Diversifizierte Finanzdienstleistungen",
+        "id": 10350
+      },
+      {
+        "count": 197,
+        "name": "Diversifizierte Medien",
+        "id": 30820
+      },
+      {
+        "count": 43,
+        "name": "Einrichtungsgegenstände, Vorrichtungen und Geräte",
+        "id": 10220
+      },
+      {
+        "count": 252,
+        "name": "Fahrzeuge und Teile",
+        "id": 10200
+      },
+      {
+        "count": 50,
+        "name": "Forstwirtschaftliche Produkte",
+        "id": 10140
+      },
+      {
+        "count": 27,
+        "name": "Getränke - alkoholfrei",
+        "id": 20520
+      },
+      {
+        "count": 48,
+        "name": "Getränke - alkoholische Getränke",
+        "id": 20510
+      },
+      {
+        "count": 177,
+        "name": "Halbleiter",
+        "id": 31130
+      },
+      {
+        "count": 283,
+        "name": "Hardware",
+        "id": 31120
+      },
+      {
+        "count": 38,
+        "name": "Hausbau & Konstruktion",
+        "id": 10230
+      },
+      {
+        "count": 73,
+        "name": "Herstellung - Bekleidung und Zubehör",
+        "id": 10240
+      },
+      {
+        "count": 242,
+        "name": "Immobilien",
+        "id": 10410
+      },
+      {
+        "count": 382,
+        "name": "Industrielle Produkte",
+        "id": 31070
+      },
+      {
+        "count": 40,
+        "name": "Industrielle Verteilung",
+        "id": 31060
+      },
+      {
+        "count": 161,
+        "name": "Interaktive Medien",
+        "id": 30830
+      },
+      {
+        "count": 132,
+        "name": "Kapitalmärkte",
+        "id": 10330
+      },
+      {
+        "count": 99,
+        "name": "Konglomerate",
+        "id": 31030
+      },
+      {
+        "count": 214,
+        "name": "Konstruktion",
+        "id": 31040
+      },
+      {
+        "count": 79,
+        "name": "Kredit-Dienstleistungen",
+        "id": 10360
+      },
+      {
+        "count": 26,
+        "name": "Landwirtschaft",
+        "id": 10110
+      },
+      {
+        "count": 61,
+        "name": "Landwirtschaftliche Maschinen und schwere Baumaschinen",
+        "id": 31050
+      },
+      {
+        "count": 144,
+        "name": "Leistungserbringer und Dienstleistungen im Gesundheitswesen",
+        "id": 20645
+      },
+      {
+        "count": 99,
+        "name": "Luft- und Raumfahrt & Verteidigung",
+        "id": 31010
+      },
+      {
+        "count": 75,
+        "name": "Medizinische Diagnostik und Forschung",
+        "id": 20660
+      },
+      {
+        "count": 233,
+        "name": "Medizinische Geräte und Instrumente",
+        "id": 20650
+      },
+      {
+        "count": 10,
+        "name": "Medizinische Versorgungspläne",
+        "id": 20630
+      },
+      {
+        "count": 28,
+        "name": "Medizinische Verteilung",
+        "id": 20670
+      },
+      {
+        "count": 862,
+        "name": "Metalle und Bergbau",
+        "id": 10150
+      },
+      {
+        "count": 132,
+        "name": null,
+        "id": null
+      },
+      {
+        "count": 18,
+        "name": "Persönliche Dienste",
+        "id": 10260
+      },
+      {
+        "count": 226,
+        "name": "REITs",
+        "id": 10420
+      },
+      {
+        "count": 155,
+        "name": "Regulierte Versorgungsunternehmen",
+        "id": 20720
+      },
+      {
+        "count": 180,
+        "name": "Reisen & Freizeit",
+        "id": 10290
+      },
+      {
+        "count": 65,
+        "name": "Restaurants",
+        "id": 10270
+      },
+      {
+        "count": 583,
+        "name": "Software",
+        "id": 31110
+      },
+      {
+        "count": 68,
+        "name": "Stahl",
+        "id": 10160
+      },
+      {
+        "count": 19,
+        "name": "Tabakwaren",
+        "id": 20560
+      },
+      {
+        "count": 150,
+        "name": "Telekommunikationsdienste",
+        "id": 30810
+      },
+      {
+        "count": 249,
+        "name": "Verkehrsmittel",
+        "id": 31080
+      },
+      {
+        "count": 193,
+        "name": "Vermögensverwaltung",
+        "id": 10310
+      },
+      {
+        "count": 260,
+        "name": "Verpackte Konsumgüter",
+        "id": 20525
+      },
+      {
+        "count": 51,
+        "name": "Verpackung & Behälter",
+        "id": 10250
+      },
+      {
+        "count": 175,
+        "name": "Versicherungen",
+        "id": 10340
+      },
+      {
+        "count": 102,
+        "name": "Versorger (unabhängige Stromerzeuger)",
+        "id": 20710
+      },
+      {
+        "count": 252,
+        "name": "Zyklischer Einzelhandel",
+        "id": 10280
+      },
+      {
+        "count": 377,
+        "name": "Öl und Gas",
+        "id": 30910
+      }
+    ],
+    "broker_id": [
+      {
+        "count": 1150,
+        "name": "1822direkt",
+        "id": 10
+      },
+      {
+        "count": 5607,
+        "name": "Bitpanda",
+        "id": 167
+      },
+      {
+        "count": 540,
+        "name": "Bux",
+        "id": 86
+      },
+      {
+        "count": 1726,
+        "name": "Comdirect",
+        "id": 1
+      },
+      {
+        "count": 4220,
+        "name": "Consorsbank",
+        "id": 2
+      },
+      {
+        "count": 1341,
+        "name": "DKB",
+        "id": 12
+      },
+      {
+        "count": 5598,
+        "name": "Finanzen.net Zero",
+        "id": 24
+      },
+      {
+        "count": 1092,
+        "name": "Finvesto",
+        "id": 5
+      },
+      {
+        "count": 64,
+        "name": "GENO Broker",
+        "id": 23
+      },
+      {
+        "count": 524,
+        "name": "ING",
+        "id": 6
+      },
+      {
+        "count": 1315,
+        "name": "S Broker",
+        "id": 7
+      },
+      {
+        "count": 2943,
+        "name": "Scalable Capital",
+        "id": 22
+      },
+      {
+        "count": 2430,
+        "name": "Smartbroker+",
+        "id": 21
+      },
+      {
+        "count": 86,
+        "name": "Targobank",
+        "id": 8
+      },
+      {
+        "count": 2705,
+        "name": "Trade Republic",
+        "id": 18
+      },
+      {
+        "count": 1851,
+        "name": "Traders Place",
+        "id": 85
+      },
+      {
+        "count": 3474,
+        "name": "Trading 212",
+        "id": 149
+      },
+      {
+        "count": 4146,
+        "name": "eToro",
+        "id": 162
+      },
+      {
+        "count": 114,
+        "name": "maxblue",
+        "id": 9
+      }
+    ],
+    "country": [
+      {
+        "count": 423,
+        "name": "Australien",
+        "id": "au"
+      },
+      {
+        "count": 2,
+        "name": "Bahamas (The)",
+        "id": "bs"
+      },
+      {
+        "count": 58,
+        "name": "Belgien",
+        "id": "be"
+      },
+      {
+        "count": 143,
+        "name": "Bermuda",
+        "id": "bm"
+      },
+      {
+        "count": 13,
+        "name": "Brasilien",
+        "id": "br"
+      },
+      {
+        "count": 19,
+        "name": "Britische Jungferninseln",
+        "id": "vg"
+      },
+      {
+        "count": 5,
+        "name": "Bulgarien",
+        "id": "bg"
+      },
+      {
+        "count": 143,
+        "name": "China",
+        "id": "cn"
+      },
+      {
+        "count": 599,
+        "name": "Deutschland",
+        "id": "de"
+      },
+      {
+        "count": 63,
+        "name": "Dänemark",
+        "id": "dk"
+      },
+      {
+        "count": 1,
+        "name": "Estland",
+        "id": "ee"
+      },
+      {
+        "count": 1,
+        "name": "Faröerinseln",
+        "id": "fo"
+      },
+      {
+        "count": 57,
+        "name": "Finnland",
+        "id": "fi"
+      },
+      {
+        "count": 263,
+        "name": "Frankreich",
+        "id": "fr"
+      },
+      {
+        "count": 1,
+        "name": "Gabun",
+        "id": "ga"
+      },
+      {
+        "count": 1,
+        "name": "Gibraltar",
+        "id": "gi"
+      },
+      {
+        "count": 27,
+        "name": "Griechenland",
+        "id": "gr"
+      },
+      {
+        "count": 9,
+        "name": "Guernsey",
+        "id": "gg"
+      },
+      {
+        "count": 85,
+        "name": "Hong Kong",
+        "id": "hk"
+      },
+      {
+        "count": 60,
+        "name": "Indonesien",
+        "id": "id"
+      },
+      {
+        "count": 51,
+        "name": "Irland",
+        "id": "ie"
+      },
+      {
+        "count": 7,
+        "name": "Isle of Man",
+        "id": "im"
+      },
+      {
+        "count": 38,
+        "name": "Israel",
+        "id": "il"
+      },
+      {
+        "count": 110,
+        "name": "Italien",
+        "id": "it"
+      },
+      {
+        "count": 515,
+        "name": "Japan",
+        "id": "jp"
+      },
+      {
+        "count": 28,
+        "name": "Jersey",
+        "id": "je"
+      },
+      {
+        "count": 212,
+        "name": "Kaimaninseln",
+        "id": "ky"
+      },
+      {
+        "count": 1294,
+        "name": "Kanada",
+        "id": "ca"
+      },
+      {
+        "count": 1,
+        "name": "Liberia",
+        "id": "lr"
+      },
+      {
+        "count": 2,
+        "name": "Liechtenstein",
+        "id": "li"
+      },
+      {
+        "count": 1,
+        "name": "Litauen",
+        "id": "lt"
+      },
+      {
+        "count": 26,
+        "name": "Luxemburg",
+        "id": "lu"
+      },
+      {
+        "count": 2,
+        "name": "Malta",
+        "id": "mt"
+      },
+      {
+        "count": 1,
+        "name": "Marokko",
+        "id": "ma"
+      },
+      {
+        "count": 28,
+        "name": "Marshallinseln",
+        "id": "mh"
+      },
+      {
+        "count": 4,
+        "name": "Mauritius",
+        "id": "mu"
+      },
+      {
+        "count": 26,
+        "name": "Mexiko",
+        "id": "mx"
+      },
+      {
+        "count": 1,
+        "name": "Monaco",
+        "id": "mc"
+      },
+      {
+        "count": 17,
+        "name": "Neuseeland",
+        "id": "nz"
+      },
+      {
+        "count": 133,
+        "name": "Niederlande",
+        "id": "nl"
+      },
+      {
+        "count": 140,
+        "name": null,
+        "id": null
+      },
+      {
+        "count": 122,
+        "name": "Norwegen",
+        "id": "no"
+      },
+      {
+        "count": 4,
+        "name": "Panama",
+        "id": "pa"
+      },
+      {
+        "count": 2,
+        "name": "Papua Neu Guinea",
+        "id": "pg"
+      },
+      {
+        "count": 51,
+        "name": "Polen",
+        "id": "pl"
+      },
+      {
+        "count": 15,
+        "name": "Portugal",
+        "id": "pt"
+      },
+      {
+        "count": 5,
+        "name": "Puerto Rico",
+        "id": "pr"
+      },
+      {
+        "count": 248,
+        "name": "Schweden",
+        "id": "se"
+      },
+      {
+        "count": 163,
+        "name": "Schweiz",
+        "id": "ch"
+      },
+      {
+        "count": 1,
+        "name": "Serbien und Montenegro",
+        "id": "cs"
+      },
+      {
+        "count": 57,
+        "name": "Singapur",
+        "id": "sg"
+      },
+      {
+        "count": 84,
+        "name": "Spanien",
+        "id": "es"
+      },
+      {
+        "count": 56,
+        "name": "Südafrika",
+        "id": "za"
+      },
+      {
+        "count": 64,
+        "name": "Thailand",
+        "id": "th"
+      },
+      {
+        "count": 5,
+        "name": "Tschechien",
+        "id": "cz"
+      },
+      {
+        "count": 5,
+        "name": "Ungarn",
+        "id": "hu"
+      },
+      {
+        "count": 3204,
+        "name": "Vereinigte Staaten (USA)",
+        "id": "us"
+      },
+      {
+        "count": 438,
+        "name": "Vereinigtes Königreich (England)",
+        "id": "gb"
+      },
+      {
+        "count": 4,
+        "name": "Zypern",
+        "id": "cy"
+      },
+      {
+        "count": 51,
+        "name": "Österreich",
+        "id": "at"
+      }
+    ],
+    "currency_of_annual_filing": [
+      {
+        "count": 11,
+        "name": "ARS",
+        "id": "ars"
+      },
+      {
+        "count": 368,
+        "name": "AUD",
+        "id": "aud"
+      },
+      {
+        "count": 1,
+        "name": "BGN",
+        "id": "bgn"
+      },
+      {
+        "count": 34,
+        "name": "BRL",
+        "id": "brl"
+      },
+      {
+        "count": 951,
+        "name": "CAD",
+        "id": "cad"
+      },
+      {
+        "count": 143,
+        "name": "CHF",
+        "id": "chf"
+      },
+      {
+        "count": 2,
+        "name": "CLP",
+        "id": "clp"
+      },
+      {
+        "count": 456,
+        "name": "CNY",
+        "id": "cny"
+      },
+      {
+        "count": 3,
+        "name": "COP",
+        "id": "cop"
+      },
+      {
+        "count": 6,
+        "name": "CZK",
+        "id": "czk"
+      },
+      {
+        "count": 48,
+        "name": "DKK",
+        "id": "dkk"
+      },
+      {
+        "count": 1501,
+        "name": "EUR",
+        "id": "eur"
+      },
+      {
+        "count": 337,
+        "name": "GBP",
+        "id": "gbp"
+      },
+      {
+        "count": 2,
+        "name": "GEL",
+        "id": "gel"
+      },
+      {
+        "count": 136,
+        "name": "HKD",
+        "id": "hkd"
+      },
+      {
+        "count": 5,
+        "name": "HUF",
+        "id": "huf"
+      },
+      {
+        "count": 51,
+        "name": "IDR",
+        "id": "idr"
+      },
+      {
+        "count": 2,
+        "name": "ILS",
+        "id": "ils"
+      },
+      {
+        "count": 17,
+        "name": "INR",
+        "id": "inr"
+      },
+      {
+        "count": 528,
+        "name": "JPY",
+        "id": "jpy"
+      },
+      {
+        "count": 14,
+        "name": "KRW",
+        "id": "krw"
+      },
+      {
+        "count": 3,
+        "name": "KZT",
+        "id": "kzt"
+      },
+      {
+        "count": 1,
+        "name": "MAD",
+        "id": "mad"
+      },
+      {
+        "count": 27,
+        "name": "MXN",
+        "id": "mxn"
+      },
+      {
+        "count": 1,
+        "name": "NGN",
+        "id": "ngn"
+      },
+      {
+        "count": 85,
+        "name": "NOK",
+        "id": "nok"
+      },
+      {
+        "count": 15,
+        "name": "NZD",
+        "id": "nzd"
+      },
+      {
+        "count": 2,
+        "name": "PEN",
+        "id": "pen"
+      },
+      {
+        "count": 1,
+        "name": "PGK",
+        "id": "pgk"
+      },
+      {
+        "count": 1,
+        "name": "PHP",
+        "id": "php"
+      },
+      {
+        "count": 53,
+        "name": "PLN",
+        "id": "pln"
+      },
+      {
+        "count": 1,
+        "name": "RON",
+        "id": "ron"
+      },
+      {
+        "count": 26,
+        "name": "RUB",
+        "id": "rub"
+      },
+      {
+        "count": 232,
+        "name": "SEK",
+        "id": "sek"
+      },
+      {
+        "count": 34,
+        "name": "SGD",
+        "id": "sgd"
+      },
+      {
+        "count": 63,
+        "name": "THB",
+        "id": "thb"
+      },
+      {
+        "count": 5,
+        "name": "TRY",
+        "id": "try"
+      },
+      {
+        "count": 7,
+        "name": "TWD",
+        "id": "twd"
+      },
+      {
+        "count": 3806,
+        "name": "USD",
+        "id": "usd"
+      },
+      {
+        "count": 1,
+        "name": "VND",
+        "id": "vnd"
+      },
+      {
+        "count": 55,
+        "name": "ZAR",
+        "id": "zar"
+      }
+    ],
+    "dividend": [
+      {
+        "count": 4659,
+        "name": false,
+        "id": false
+      },
+      {
+        "count": 4530,
+        "name": true,
+        "id": true
+      }
+    ],
+    "dividend_frequency": [
+      {
+        "count": 1935,
+        "name": "Jährlich",
+        "id": "jährlich"
+      },
+      {
+        "count": 1765,
+        "name": "Halbjährlich",
+        "id": "halbjährlich"
+      },
+      {
+        "count": 1870,
+        "name": "Vierteljährlich",
+        "id": "vierteljährlich"
+      },
+      {
+        "count": 75,
+        "name": "Monatlich",
+        "id": "monatlich"
+      },
+      {
+        "count": 1,
+        "name": "Zweimonatlich",
+        "id": "zweimonatlich"
+      },
+      {
+        "count": 3,
+        "name": "Viermonatlich",
+        "id": "viermonatlich"
+      },
+      {
+        "count": 3540,
+        "name": "Andere",
+        "id": "andere"
+      }
+    ],
+    "dividend_type": [
+      {
+        "count": 2834,
+        "name": "Jährliche Dividende",
+        "id": "Final Dividend"
+      },
+      {
+        "count": 2007,
+        "name": "Zwischendividende",
+        "id": "Interim Dividend"
+      },
+      {
+        "count": 333,
+        "name": "Sonderdividende",
+        "id": "Special Cash Dividend"
+      },
+      {
+        "count": 7,
+        "name": "Ergänzungsdividende",
+        "id": "Supplemental Dividend"
+      },
+      {
+        "count": 21,
+        "name": "Rückständige Dividende",
+        "id": "Arrears"
+      },
+      {
+        "count": 8,
+        "name": "Kapitalzinsen",
+        "id": "Interest on Capital"
+      },
+      {
+        "count": 10,
+        "name": "Teiloptionsschein",
+        "id": "Instalment Warrants"
+      },
+      {
+        "count": 6,
+        "name": "Gedenkdividende",
+        "id": "Memorial"
+      }
+    ],
+    "edi_primary_exchange": [
+      {
+        "count": 47,
+        "name": "ATVSE",
+        "id": "atvse"
+      },
+      {
+        "count": 422,
+        "name": "AUASX",
+        "id": "auasx"
+      },
+      {
+        "count": 1,
+        "name": "AUNSE",
+        "id": "aunse"
+      },
+      {
+        "count": 57,
+        "name": "BEENB",
+        "id": "beenb"
+      },
+      {
+        "count": 1,
+        "name": "BGBSE",
+        "id": "bgbse"
+      },
+      {
+        "count": 1,
+        "name": "BMBSE",
+        "id": "bmbse"
+      },
+      {
+        "count": 13,
+        "name": "BRBVSP",
+        "id": "brbvsp"
+      },
+      {
+        "count": 284,
+        "name": "CACNQ",
+        "id": "cacnq"
+      },
+      {
+        "count": 472,
+        "name": "CACVE",
+        "id": "cacve"
+      },
+      {
+        "count": 20,
+        "name": "CANEO",
+        "id": "caneo"
+      },
+      {
+        "count": 493,
+        "name": "CATSE",
+        "id": "catse"
+      },
+      {
+        "count": 1,
+        "name": "CHBRN",
+        "id": "chbrn"
+      },
+      {
+        "count": 153,
+        "name": "CHSSX",
+        "id": "chssx"
+      },
+      {
+        "count": 6,
+        "name": "CZPSE",
+        "id": "czpse"
+      },
+      {
+        "count": 33,
+        "name": "DEBSE",
+        "id": "debse"
+      },
+      {
+        "count": 21,
+        "name": "DEDSE",
+        "id": "dedse"
+      },
+      {
+        "count": 487,
+        "name": "DEFSX",
+        "id": "defsx"
+      },
+      {
+        "count": 50,
+        "name": "DEHSE",
+        "id": "dehse"
+      },
+      {
+        "count": 22,
+        "name": "DEMSE",
+        "id": "demse"
+      },
+      {
+        "count": 10,
+        "name": "DESSE",
+        "id": "desse"
+      },
+      {
+        "count": 5,
+        "name": "DEXETR",
+        "id": "dexetr"
+      },
+      {
+        "count": 62,
+        "name": "DKCSE",
+        "id": "dkcse"
+      },
+      {
+        "count": 14,
+        "name": "ESBSE",
+        "id": "esbse"
+      },
+      {
+        "count": 68,
+        "name": "ESMSE",
+        "id": "esmse"
+      },
+      {
+        "count": 1,
+        "name": "ESVSE",
+        "id": "esvse"
+      },
+      {
+        "count": 55,
+        "name": "FIHSE",
+        "id": "fihse"
+      },
+      {
+        "count": 272,
+        "name": "FRPEN",
+        "id": "frpen"
+      },
+      {
+        "count": 494,
+        "name": "GBLSE",
+        "id": "gblse"
+      },
+      {
+        "count": 2,
+        "name": "GBOFX",
+        "id": "gbofx"
+      },
+      {
+        "count": 29,
+        "name": "GRASE",
+        "id": "grase"
+      },
+      {
+        "count": 554,
+        "name": "HKSEHK",
+        "id": "hksehk"
+      },
+      {
+        "count": 5,
+        "name": "HUBSE",
+        "id": "hubse"
+      },
+      {
+        "count": 60,
+        "name": "IDJSE",
+        "id": "idjse"
+      },
+      {
+        "count": 11,
+        "name": "IEISE",
+        "id": "ieise"
+      },
+      {
+        "count": 4,
+        "name": "ILTSE",
+        "id": "iltse"
+      },
+      {
+        "count": 116,
+        "name": "ITMSE",
+        "id": "itmse"
+      },
+      {
+        "count": 513,
+        "name": "JPTSE",
+        "id": "jptse"
+      },
+      {
+        "count": 1,
+        "name": "LTNSE",
+        "id": "ltnse"
+      },
+      {
+        "count": 4,
+        "name": "LULSE",
+        "id": "lulse"
+      },
+      {
+        "count": 1,
+        "name": "MABVC",
+        "id": "mabvc"
+      },
+      {
+        "count": 26,
+        "name": "MXMSE",
+        "id": "mxmse"
+      },
+      {
+        "count": 87,
+        "name": "NLENA",
+        "id": "nlena"
+      },
+      {
+        "count": 141,
+        "name": "NOOB",
+        "id": "noob"
+      },
+      {
+        "count": 15,
+        "name": "NZSE",
+        "id": "nzse"
+      },
+      {
+        "count": 72,
+        "name": null,
+        "id": null
+      },
+      {
+        "count": 1,
+        "name": "PEBVL",
+        "id": "pebvl"
+      },
+      {
+        "count": 56,
+        "name": "PLWSE",
+        "id": "plwse"
+      },
+      {
+        "count": 16,
+        "name": "PTBVL",
+        "id": "ptbvl"
+      },
+      {
+        "count": 3,
+        "name": "SENGM",
+        "id": "sengm"
+      },
+      {
+        "count": 248,
+        "name": "SESSE",
+        "id": "sesse"
+      },
+      {
+        "count": 50,
+        "name": "SGSSE",
+        "id": "sgsse"
+      },
+      {
+        "count": 63,
+        "name": "THSET",
+        "id": "thset"
+      },
+      {
+        "count": 47,
+        "name": "USAMEX",
+        "id": "usamex"
+      },
+      {
+        "count": 1,
+        "name": "USBATS",
+        "id": "usbats"
+      },
+      {
+        "count": 1652,
+        "name": "USNASD",
+        "id": "usnasd"
+      },
+      {
+        "count": 1541,
+        "name": "USNYSE",
+        "id": "usnyse"
+      },
+      {
+        "count": 243,
+        "name": "USOTC",
+        "id": "usotc"
+      },
+      {
+        "count": 6,
+        "name": "USPORT",
+        "id": "usport"
+      },
+      {
+        "count": 56,
+        "name": "ZAJSE",
+        "id": "zajse"
+      }
+    ],
+    "industry": [
+      {
+        "count": 45,
+        "name": "Abfallwirtschaft",
+        "id": 31090010
+      },
+      {
+        "count": 27,
+        "name": "Alkoholfreie Getränke",
+        "id": 20520010
+      },
+      {
+        "count": 15,
+        "name": "Aluminium",
+        "id": 10150010
+      },
+      {
+        "count": 93,
+        "name": "Andere Edelmetalle und Bergbau",
+        "id": 10150060
+      },
+      {
+        "count": 417,
+        "name": "Andere Industriemetalle und Bergbau",
+        "id": 10150030
+      },
+      {
+        "count": 251,
+        "name": "Arzneimittelhersteller für Spezialitäten & Generika",
+        "id": 20620020
+      },
+      {
+        "count": 23,
+        "name": "Ausstrahlung",
+        "id": 30820030
+      },
+      {
+        "count": 36,
+        "name": "Auto- und Lkw-Händler",
+        "id": 10200010
+      },
+      {
+        "count": 71,
+        "name": "Auto-Hersteller",
+        "id": 10200020
+      },
+      {
+        "count": 126,
+        "name": "Auto-Teile",
+        "id": 10200030
+      },
+      {
+        "count": 67,
+        "name": "Bauprodukte und Ausrüstung",
+        "id": 31040030
+      },
+      {
+        "count": 47,
+        "name": "Baustoffe",
+        "id": 10120010
+      },
+      {
+        "count": 46,
+        "name": "Bekleidungs-Einzelhandel",
+        "id": 10280010
+      },
+      {
+        "count": 36,
+        "name": "Bekleidungsherstellung",
+        "id": 10240020
+      },
+      {
+        "count": 22,
+        "name": "Beratungsdienste",
+        "id": 31020020
+      },
+      {
+        "count": 561,
+        "name": "Biotechnologie",
+        "id": 20610010
+      },
+      {
+        "count": 23,
+        "name": "Brauereien",
+        "id": 20510010
+      },
+      {
+        "count": 5,
+        "name": "Briefkastenfirmen",
+        "id": 10350010
+      },
+      {
+        "count": 49,
+        "name": "Chemikalien",
+        "id": 10130010
+      },
+      {
+        "count": 46,
+        "name": "Computer-Hardware",
+        "id": 31120020
+      },
+      {
+        "count": 75,
+        "name": "Diagnostik und Forschung",
+        "id": 20660010
+      },
+      {
+        "count": 37,
+        "name": "Dienstleistungen im Bereich Bildung und Ausbildung",
+        "id": 20540010
+      },
+      {
+        "count": 21,
+        "name": "Discountläden",
+        "id": 20550010
+      },
+      {
+        "count": 48,
+        "name": "Diversifizierte Banken",
+        "id": 10320010
+      },
+      {
+        "count": 45,
+        "name": "Diversifizierte Versicherungen",
+        "id": 10340060
+      },
+      {
+        "count": 37,
+        "name": "Diversifizierte Versorger",
+        "id": 20720040
+      },
+      {
+        "count": 73,
+        "name": "Einrichtungen der medizinischen Versorgung",
+        "id": 20645010
+      },
+      {
+        "count": 43,
+        "name": "Einrichtungsgegenstände, Vorrichtungen und Geräte",
+        "id": 10220010
+      },
+      {
+        "count": 46,
+        "name": "Eisenbahnen",
+        "id": 31080030
+      },
+      {
+        "count": 82,
+        "name": "Elektrische Ausrüstung und Teile",
+        "id": 31070060
+      },
+      {
+        "count": 14,
+        "name": "Elektronik & Computer-Vertrieb",
+        "id": 31120050
+      },
+      {
+        "count": 71,
+        "name": "Elektronische Komponenten",
+        "id": 31120040
+      },
+      {
+        "count": 65,
+        "name": "Elektronische Spiele & Multimedia",
+        "id": 30830020
+      },
+      {
+        "count": 77,
+        "name": "Erneuerbare Energie",
+        "id": 20710020
+      },
+      {
+        "count": 33,
+        "name": "Ferienorte & Kasinos",
+        "id": 10290040
+      },
+      {
+        "count": 25,
+        "name": "Finanzdaten & Börsenplätze",
+        "id": 10330020
+      },
+      {
+        "count": 15,
+        "name": "Finanzkonglomerate",
+        "id": 10350020
+      },
+      {
+        "count": 51,
+        "name": "Fluggesellschaften",
+        "id": 31080020
+      },
+      {
+        "count": 26,
+        "name": "Flughäfen und Flugdienste",
+        "id": 31080010
+      },
+      {
+        "count": 54,
+        "name": "Freizeit",
+        "id": 10290020
+      },
+      {
+        "count": 19,
+        "name": "Freizeit-Fahrzeuge (Wohnmobile)",
+        "id": 10200040
+      },
+      {
+        "count": 44,
+        "name": "Generelle Arzneimittelhersteller",
+        "id": 20620010
+      },
+      {
+        "count": 16,
+        "name": "Geschäftsausstattung und -zubehör",
+        "id": 31070010
+      },
+      {
+        "count": 57,
+        "name": "Gesundheitsinformationsdienste",
+        "id": 20645030
+      },
+      {
+        "count": 39,
+        "name": "Glücksspiel",
+        "id": 10290010
+      },
+      {
+        "count": 280,
+        "name": "Gold",
+        "id": 10150040
+      },
+      {
+        "count": 89,
+        "name": "Halbleiter",
+        "id": 31130020
+      },
+      {
+        "count": 48,
+        "name": "Halbleiter-Ausrüstung und -Materialien",
+        "id": 31130010
+      },
+      {
+        "count": 53,
+        "name": "Haushalt & persönliche Produkte",
+        "id": 20525030
+      },
+      {
+        "count": 11,
+        "name": "Heimwerker-Einzelhandel",
+        "id": 10280030
+      },
+      {
+        "count": 12,
+        "name": "Hypotheken-Finanzierung",
+        "id": 10320030
+      },
+      {
+        "count": 117,
+        "name": "Immobilien-Dienstleistungen",
+        "id": 10410020
+      },
+      {
+        "count": 40,
+        "name": "Industrielle Verteilung",
+        "id": 31060010
+      },
+      {
+        "count": 146,
+        "name": "Informationstechnische Dienste",
+        "id": 31110010
+      },
+      {
+        "count": 16,
+        "name": "Infrastruktur-Betrieb",
+        "id": 31040020
+      },
+      {
+        "count": 46,
+        "name": "Integrierter Güterverkehr & Logistik",
+        "id": 31080060
+      },
+      {
+        "count": 64,
+        "name": "Internet-Einzelhandel",
+        "id": 10280050
+      },
+      {
+        "count": 96,
+        "name": "Internet-Inhalte und -Informationen",
+        "id": 30830010
+      },
+      {
+        "count": 107,
+        "name": "Kapitalmärkte",
+        "id": 10330010
+      },
+      {
+        "count": 24,
+        "name": "Kaufhäuser",
+        "id": 10280020
+      },
+      {
+        "count": 6,
+        "name": "Kokskohle",
+        "id": 10160010
+      },
+      {
+        "count": 73,
+        "name": "Kommunikationsausrüstung",
+        "id": 31120010
+      },
+      {
+        "count": 10,
+        "name": "Konditoren",
+        "id": 20525010
+      },
+      {
+        "count": 99,
+        "name": "Konglomerate",
+        "id": 31030010
+      },
+      {
+        "count": 30,
+        "name": "Kontrolle von Umweltverschmutzung und Behandlung",
+        "id": 31070040
+      },
+      {
+        "count": 79,
+        "name": "Kredit-Dienstleistungen",
+        "id": 10360010
+      },
+      {
+        "count": 35,
+        "name": "Kupfer",
+        "id": 10150020
+      },
+      {
+        "count": 61,
+        "name": "Landwirtschaftliche Maschinen und schwere Baumaschinen",
+        "id": 31050010
+      },
+      {
+        "count": 48,
+        "name": "Landwirtschaftliche Produkte",
+        "id": 20525020
+      },
+      {
+        "count": 37,
+        "name": "Lebensmittelgeschäfte",
+        "id": 20550030
+      },
+      {
+        "count": 37,
+        "name": "Lebensversicherungen",
+        "id": 10340010
+      },
+      {
+        "count": 99,
+        "name": "Luft- und Raumfahrt & Verteidigung",
+        "id": 31010010
+      },
+      {
+        "count": 28,
+        "name": "Luxusgüter",
+        "id": 10280040
+      },
+      {
+        "count": 148,
+        "name": "Medizinische Geräte",
+        "id": 20650010
+      },
+      {
+        "count": 85,
+        "name": "Medizinische Instrumente und Zubehör",
+        "id": 20650020
+      },
+      {
+        "count": 10,
+        "name": "Medizinische Versorgungspläne",
+        "id": 20630010
+      },
+      {
+        "count": 28,
+        "name": "Medizinische Verteilung",
+        "id": 20670010
+      },
+      {
+        "count": 19,
+        "name": "Metall-Herstellung",
+        "id": 31070030
+      },
+      {
+        "count": 28,
+        "name": "Miet- und Leasing-Dienstleistungen",
+        "id": 31020030
+      },
+      {
+        "count": 26,
+        "name": null,
+        "id": 10110010
+      },
+      {
+        "count": 132,
+        "name": null,
+        "id": null
+      },
+      {
+        "count": 31,
+        "name": "Papier und Papierprodukte",
+        "id": 10140020
+      },
+      {
+        "count": 25,
+        "name": "Personal- und Arbeitsvermittlung",
+        "id": 31020050
+      },
+      {
+        "count": 18,
+        "name": "Persönliche Dienste",
+        "id": 10260010
+      },
+      {
+        "count": 14,
+        "name": "Pharmazeutische Einzelhändler",
+        "id": 20645020
+      },
+      {
+        "count": 24,
+        "name": "REITs - Branche",
+        "id": 10420030
+      },
+      {
+        "count": 28,
+        "name": "REITs - Büro",
+        "id": 10420040
+      },
+      {
+        "count": 31,
+        "name": "REITs - Diversifizierte",
+        "id": 10420090
+      },
+      {
+        "count": 39,
+        "name": "REITs - Einzelhandel",
+        "id": 10420060
+      },
+      {
+        "count": 17,
+        "name": "REITs - Gesundheitseinrichtungen",
+        "id": 10420010
+      },
+      {
+        "count": 15,
+        "name": "REITs - Hotel & Motel",
+        "id": 10420020
+      },
+      {
+        "count": 31,
+        "name": "REITs - Hypothek",
+        "id": 10420070
+      },
+      {
+        "count": 21,
+        "name": "REITs - Spezialität",
+        "id": 10420080
+      },
+      {
+        "count": 20,
+        "name": "REITs - Wohnimmobilien",
+        "id": 10420050
+      },
+      {
+        "count": 33,
+        "name": "Real Estate-Diversifiziert",
+        "id": 10410030
+      },
+      {
+        "count": 92,
+        "name": "Real Estate-Entwicklung",
+        "id": 10410010
+      },
+      {
+        "count": 301,
+        "name": "Regionale Banken",
+        "id": 10320020
+      },
+      {
+        "count": 59,
+        "name": "Regulierte Elektrizität",
+        "id": 20720020
+      },
+      {
+        "count": 33,
+        "name": "Reguliertes Gas",
+        "id": 20720030
+      },
+      {
+        "count": 26,
+        "name": "Reguliertes Wasser",
+        "id": 20720010
+      },
+      {
+        "count": 32,
+        "name": "Reise-Dienstleistungen",
+        "id": 10290050
+      },
+      {
+        "count": 65,
+        "name": "Restaurants",
+        "id": 10270010
+      },
+      {
+        "count": 12,
+        "name": "Rückversicherung",
+        "id": 10340030
+      },
+      {
+        "count": 65,
+        "name": "Schifffahrt",
+        "id": 31080040
+      },
+      {
+        "count": 19,
+        "name": "Schnittholz und Holzproduktion",
+        "id": 10140010
+      },
+      {
+        "count": 25,
+        "name": "Schuhe und Zubehör",
+        "id": 10240030
+      },
+      {
+        "count": 21,
+        "name": "Sicherheits- und Schutzdienste",
+        "id": 31020040
+      },
+      {
+        "count": 22,
+        "name": "Silber",
+        "id": 10150050
+      },
+      {
+        "count": 269,
+        "name": "Software-Anwendung",
+        "id": 31110020
+      },
+      {
+        "count": 168,
+        "name": "Software-Infrastruktur",
+        "id": 31110030
+      },
+      {
+        "count": 40,
+        "name": "Solar",
+        "id": 31130030
+      },
+      {
+        "count": 150,
+        "name": "Spezialchemikalien",
+        "id": 10130020
+      },
+      {
+        "count": 210,
+        "name": "Spezialisierte Industriemaschinen",
+        "id": 31070020
+      },
+      {
+        "count": 79,
+        "name": "Spezialisierter Einzelhandel",
+        "id": 10280060
+      },
+      {
+        "count": 56,
+        "name": "Spezielle Dienstleistungen für Unternehmen",
+        "id": 31020010
+      },
+      {
+        "count": 62,
+        "name": "Stahl",
+        "id": 10160020
+      },
+      {
+        "count": 19,
+        "name": "Tabak",
+        "id": 20560010
+      },
+      {
+        "count": 131,
+        "name": "Technik und Konstruktion",
+        "id": 31040010
+      },
+      {
+        "count": 150,
+        "name": "Telekommunikationsdienste",
+        "id": 30810010
+      },
+      {
+        "count": 12,
+        "name": "Textile Fertigung",
+        "id": 10240010
+      },
+      {
+        "count": 20,
+        "name": "Thermische Kohle",
+        "id": 30920010
+      },
+      {
+        "count": 15,
+        "name": "Trucking",
+        "id": 31080050
+      },
+      {
+        "count": 25,
+        "name": "Unabhängige Stromerzeuger",
+        "id": 20710010
+      },
+      {
+        "count": 22,
+        "name": "Unterbringung",
+        "id": 10290030
+      },
+      {
+        "count": 96,
+        "name": "Unterhaltung",
+        "id": 30820040
+      },
+      {
+        "count": 32,
+        "name": "Unterhaltungselektronik",
+        "id": 31120030
+      },
+      {
+        "count": 43,
+        "name": "Uran",
+        "id": 30920020
+      },
+      {
+        "count": 193,
+        "name": "Vermögensverwaltung",
+        "id": 10310010
+      },
+      {
+        "count": 149,
+        "name": "Verpackte Lebensmittel",
+        "id": 20525040
+      },
+      {
+        "count": 51,
+        "name": "Verpackung & Behälter",
+        "id": 10250010
+      },
+      {
+        "count": 48,
+        "name": "Versicherungen für Eigentum & Unfall",
+        "id": 10340020
+      },
+      {
+        "count": 20,
+        "name": "Versicherungen für Spezialitäten",
+        "id": 10340040
+      },
+      {
+        "count": 13,
+        "name": "Versicherungsmakler",
+        "id": 10340050
+      },
+      {
+        "count": 21,
+        "name": "Verteilung von Lebensmitteln",
+        "id": 20550020
+      },
+      {
+        "count": 24,
+        "name": "Veröffentlichung",
+        "id": 30820020
+      },
+      {
+        "count": 25,
+        "name": "Weinkellereien & Destillerien",
+        "id": 20510020
+      },
+      {
+        "count": 54,
+        "name": "Werbeagenturen",
+        "id": 30820010
+      },
+      {
+        "count": 25,
+        "name": "Werkzeuge und Zubehör",
+        "id": 31070050
+      },
+      {
+        "count": 47,
+        "name": "Wissenschaftliche und technische Instrumente",
+        "id": 31120060
+      },
+      {
+        "count": 38,
+        "name": "Wohnungsbau",
+        "id": 10230010
+      },
+      {
+        "count": 161,
+        "name": "Öl und Gas E&P",
+        "id": 30910020
+      },
+      {
+        "count": 47,
+        "name": "Öl und Gas Midstream",
+        "id": 30910040
+      },
+      {
+        "count": 44,
+        "name": "Öl und Gas integriert",
+        "id": 30910030
+      },
+      {
+        "count": 69,
+        "name": "Öl- und Gas-Ausrüstung und -Dienstleistungen",
+        "id": 30910060
+      },
+      {
+        "count": 17,
+        "name": "Öl- und Gasbohrung",
+        "id": 30910010
+      },
+      {
+        "count": 39,
+        "name": "Öl- und Gasraffinierung und Marketing",
+        "id": 30910050
+      }
+    ],
+    "region": [
+      {
+        "count": 918,
+        "name": "",
+        "id": ""
+      },
+      {
+        "count": 54,
+        "name": "Afrika",
+        "id": "africa"
+      },
+      {
+        "count": 1112,
+        "name": "Asien",
+        "id": "asien"
+      },
+      {
+        "count": 2388,
+        "name": "Europa",
+        "id": "europe"
+      },
+      {
+        "count": 40,
+        "name": "Lateinamerika",
+        "id": "latin_america"
+      },
+      {
+        "count": 4184,
+        "name": "Nordamerika",
+        "id": "america_north"
+      },
+      {
+        "count": 66,
+        "name": "Osteuropa",
+        "id": "europe_east"
+      },
+      {
+        "count": 427,
+        "name": "Pazifik",
+        "id": "australasia"
+      }
+    ],
+    "sector": [
+      {
+        "count": 470,
+        "name": "Basiskonsumgüter",
+        "id": 205
+      },
+      {
+        "count": 440,
+        "name": "Energie",
+        "id": 309
+      },
+      {
+        "count": 960,
+        "name": "Finanzen",
+        "id": 103
+      },
+      {
+        "count": 1346,
+        "name": "Gesundheitswesen",
+        "id": 206
+      },
+      {
+        "count": 1252,
+        "name": "Grundmaterialien",
+        "id": 101
+      },
+      {
+        "count": 468,
+        "name": "Immobilien",
+        "id": 104
+      },
+      {
+        "count": 1341,
+        "name": "Industrie",
+        "id": 310
+      },
+      {
+        "count": 508,
+        "name": "Kommunikation",
+        "id": 308
+      },
+      {
+        "count": 132,
+        "name": null,
+        "id": null
+      },
+      {
+        "count": 1043,
+        "name": "Technologie",
+        "id": 311
+      },
+      {
+        "count": 257,
+        "name": "Versorger",
+        "id": 207
+      },
+      {
+        "count": 972,
+        "name": "Zykl. Konsumgüter",
+        "id": 102
+      }
+    ]
+  }
+}

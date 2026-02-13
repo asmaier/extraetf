@@ -1,0 +1,6823 @@
+{
+  "filters": {
+    "country": [
+      {
+        "id": "22",
+        "label": "USA",
+        "count": 1045
+      },
+      {
+        "id": "37",
+        "label": "Japan",
+        "count": 145
+      },
+      {
+        "id": "45",
+        "label": "China",
+        "count": 101
+      },
+      {
+        "id": "41",
+        "label": "Großbritannien",
+        "count": 93
+      },
+      {
+        "id": "44",
+        "label": "Deutschland",
+        "count": 77
+      },
+      {
+        "id": "38",
+        "label": "Italien",
+        "count": 32
+      },
+      {
+        "id": "28",
+        "label": "Schweiz",
+        "count": 24
+      },
+      {
+        "id": "40",
+        "label": "Indien",
+        "count": 22
+      },
+      {
+        "id": "43",
+        "label": "Frankreich",
+        "count": 17
+      },
+      {
+        "id": "36",
+        "label": "Kanada",
+        "count": 14
+      },
+      {
+        "id": "48",
+        "label": "Australien",
+        "count": 13
+      },
+      {
+        "id": "25",
+        "label": "Taiwan",
+        "count": 12
+      },
+      {
+        "id": "27",
+        "label": "Spanien",
+        "count": 8
+      },
+      {
+        "id": "35",
+        "label": "Korea",
+        "count": 8
+      },
+      {
+        "id": "47",
+        "label": "Brasilien",
+        "count": 6
+      },
+      {
+        "id": "1224",
+        "label": "Saudi Arabien",
+        "count": 5
+      },
+      {
+        "id": "107",
+        "label": "Niederlande",
+        "count": 4
+      },
+      {
+        "id": "39",
+        "label": "Indonesien",
+        "count": 3
+      },
+      {
+        "id": "108",
+        "label": "Singapur",
+        "count": 3
+      },
+      {
+        "id": "23",
+        "label": "Türkei",
+        "count": 2
+      },
+      {
+        "id": "32",
+        "label": "Österreich",
+        "count": 2
+      },
+      {
+        "id": "33",
+        "label": "Mexiko",
+        "count": 2
+      },
+      {
+        "id": "42",
+        "label": "Griechenland",
+        "count": 2
+      },
+      {
+        "id": "24",
+        "label": "Thailand",
+        "count": 1
+      },
+      {
+        "id": "26",
+        "label": "Südafrika",
+        "count": 1
+      },
+      {
+        "id": "29",
+        "label": "Russland",
+        "count": 1
+      },
+      {
+        "id": "31",
+        "label": "Polen",
+        "count": 1
+      },
+      {
+        "id": "34",
+        "label": "Malaysia",
+        "count": 1
+      },
+      {
+        "id": "49",
+        "label": "Vietnam",
+        "count": 1
+      },
+      {
+        "id": "110",
+        "label": "Philippinen",
+        "count": 1
+      },
+      {
+        "id": "111",
+        "label": "Pakistan",
+        "count": 1
+      },
+      {
+        "id": "1156",
+        "label": "Israel",
+        "count": 1
+      },
+      {
+        "id": "1169",
+        "label": "Schweden",
+        "count": 1
+      },
+      {
+        "id": "1225",
+        "label": "Kuwait",
+        "count": 1
+      }
+    ],
+    "replication_type": [
+      {
+        "id": "phy",
+        "label": "Physisch",
+        "count": 3055
+      },
+      {
+        "id": "syn",
+        "label": "Synthetisch",
+        "count": 613
+      }
+    ],
+    "guide_commodity": [
+      {
+        "id": "null",
+        "label": "",
+        "count": 4396
+      },
+      {
+        "id": "gold",
+        "label": "Gold",
+        "count": 17
+      },
+      {
+        "id": "oil",
+        "label": "Öl",
+        "count": 14
+      },
+      {
+        "id": "diversified-commodities",
+        "label": "Diversifiziert",
+        "count": 9
+      },
+      {
+        "id": "silver",
+        "label": "Silber",
+        "count": 8
+      },
+      {
+        "id": "nickel",
+        "label": "Nickel",
+        "count": 7
+      },
+      {
+        "id": "zinc",
+        "label": "Zink",
+        "count": 7
+      },
+      {
+        "id": "heating-oil",
+        "label": "Heizöl",
+        "count": 6
+      },
+      {
+        "id": "aluminium",
+        "label": "Aluminium",
+        "count": 5
+      },
+      {
+        "id": "copper",
+        "label": "Kupfer",
+        "count": 5
+      },
+      {
+        "id": "energy",
+        "label": "Energierohstoffe",
+        "count": 5
+      },
+      {
+        "id": "industrial-metals",
+        "label": "Industriemetalle",
+        "count": 5
+      },
+      {
+        "id": "lead",
+        "label": "Blei",
+        "count": 5
+      },
+      {
+        "id": "natural-gas",
+        "label": "Erdgas",
+        "count": 5
+      },
+      {
+        "id": "platinum",
+        "label": "Platin",
+        "count": 5
+      },
+      {
+        "id": "tin",
+        "label": "Zinn",
+        "count": 5
+      },
+      {
+        "id": "agriculture",
+        "label": "Agrarrohstoffe",
+        "count": 4
+      },
+      {
+        "id": "palladium",
+        "label": "Palladium",
+        "count": 4
+      },
+      {
+        "id": "precious-metals",
+        "label": "Edelmetalle",
+        "count": 4
+      },
+      {
+        "id": "coffee",
+        "label": "Kaffee",
+        "count": 3
+      },
+      {
+        "id": "corn",
+        "label": "Mais",
+        "count": 3
+      },
+      {
+        "id": "co2-certificates",
+        "label": "CO2 Zertifikate",
+        "count": 2
+      },
+      {
+        "id": "cotton",
+        "label": "Baumwolle",
+        "count": 2
+      },
+      {
+        "id": "diesel",
+        "label": "Diesel",
+        "count": 2
+      },
+      {
+        "id": "soybeans",
+        "label": "Sojabohnen",
+        "count": 2
+      },
+      {
+        "id": "sugar",
+        "label": "Zucker",
+        "count": 2
+      },
+      {
+        "id": "wheat",
+        "label": "Weizen",
+        "count": 2
+      },
+      {
+        "id": "cocoa",
+        "label": "Kakao",
+        "count": 1
+      },
+      {
+        "id": "livestock",
+        "label": "Viehwirtschaft",
+        "count": 1
+      }
+    ],
+    "recommendation": [
+      {
+        "id": "s-p-500",
+        "label": "S&P 500",
+        "count": 4
+      },
+      {
+        "id": "stocks-developed-markets",
+        "label": "Aktien Industrieländer",
+        "count": 4
+      },
+      {
+        "id": "stocks-emerging-markets",
+        "label": "Aktien Schwellenländer",
+        "count": 4
+      },
+      {
+        "id": "stocks-global",
+        "label": "Aktien Global",
+        "count": 4
+      },
+      {
+        "id": "stoxx-europe-600",
+        "label": "STOXX Europe 600",
+        "count": 4
+      },
+      {
+        "id": "msci-usa",
+        "label": "MSCI USA",
+        "count": 3
+      },
+      {
+        "id": "stocks-asia-pacific-ex-japan",
+        "label": "Aktien Asien-Pazifik (ex Japan)",
+        "count": 3
+      },
+      {
+        "id": "bonds-aggregate",
+        "label": "Anleihen Global",
+        "count": 2
+      },
+      {
+        "id": "government-bonds-germany",
+        "label": "Staatsanleihen Deutschland",
+        "count": 2
+      },
+      {
+        "id": "msci-europe",
+        "label": "MSCI Europe",
+        "count": 2
+      },
+      {
+        "id": "stocks-eurozone",
+        "label": "Aktien Eurozone",
+        "count": 2
+      },
+      {
+        "id": "government-bonds-eurozone",
+        "label": "Staatsanleihen Eurozone",
+        "count": 1
+      },
+      {
+        "id": "stocks-asia",
+        "label": "Aktien Asien",
+        "count": 1
+      }
+    ],
+    "distribution_cagr": [
+      {
+        "id": "year_10",
+        "label": "10 Jahre",
+        "count": 311,
+        "min": -0.31427,
+        "max": 0.50087
+      },
+      {
+        "id": "from_creation",
+        "label": "Seit Beginn",
+        "count": 976,
+        "min": -0.44,
+        "max": 1.82103
+      },
+      {
+        "id": "year_9",
+        "label": "9 Jahre",
+        "count": 347,
+        "min": -0.30758,
+        "max": 0.44665
+      },
+      {
+        "id": "year_7",
+        "label": "7 Jahre",
+        "count": 458,
+        "min": -0.44225,
+        "max": 0.63073
+      },
+      {
+        "id": "year_8",
+        "label": "8 Jahre",
+        "count": 419,
+        "min": -0.41835,
+        "max": 0.49422
+      },
+      {
+        "id": "year_1",
+        "label": "1 Jahr",
+        "count": 1011,
+        "min": -0.78947,
+        "max": 10.38461
+      },
+      {
+        "id": "year_2",
+        "label": "2 Jahre",
+        "count": 890,
+        "min": -0.51493,
+        "max": 2.37411
+      },
+      {
+        "id": "year_5",
+        "label": "5 Jahre",
+        "count": 651,
+        "min": -0.5822,
+        "max": 1.17791
+      },
+      {
+        "id": "year_6",
+        "label": "6 Jahre",
+        "count": 564,
+        "min": -0.53423,
+        "max": 0.62481
+      },
+      {
+        "id": "year_3",
+        "label": "3 Jahre",
+        "count": 797,
+        "min": -0.39208,
+        "max": 1.9625
+      },
+      {
+        "id": "year_4",
+        "label": "4 Jahre",
+        "count": 726,
+        "min": -0.25522,
+        "max": 2.97038
+      }
+    ],
+    "is_stock_tracker": [
+      {
+        "id": false,
+        "label": false,
+        "count": 4414
+      },
+      {
+        "id": true,
+        "label": true,
+        "count": 122
+      }
+    ],
+    "risk_measures": [
+      {
+        "id": "1_year",
+        "label": "1 Jahr",
+        "count": 3774,
+        "min": -99.99,
+        "max": -0.01
+      },
+      {
+        "id": "10_years",
+        "label": "10 Jahre",
+        "count": 1150,
+        "min": -100,
+        "max": -0.06
+      },
+      {
+        "id": "2_years",
+        "label": "2 Jahre",
+        "count": 0,
+        "min": null,
+        "max": null
+      },
+      {
+        "id": "5_years",
+        "label": "5 Jahre",
+        "count": 2298,
+        "min": -100,
+        "max": -0.03
+      },
+      {
+        "id": "3_years",
+        "label": "3 Jahre",
+        "count": 3038,
+        "min": -100,
+        "max": null
+      },
+      {
+        "id": "15_years",
+        "label": "15 Jahre",
+        "count": 604,
+        "min": -99.64,
+        "max": -0.18
+      },
+      {
+        "id": "20_years",
+        "label": "20 Jahre",
+        "count": 107,
+        "min": -85.73,
+        "max": -7.44
+      }
+    ],
+    "sector": [
+      {
+        "id": "51",
+        "label": "Technologie",
+        "count": 216
+      },
+      {
+        "id": "72",
+        "label": "Sonstiges",
+        "count": 49
+      },
+      {
+        "id": "60",
+        "label": "Gesundheit",
+        "count": 36
+      },
+      {
+        "id": "52",
+        "label": "Immobilien/REITs",
+        "count": 34
+      },
+      {
+        "id": "58",
+        "label": "Energie",
+        "count": 32
+      },
+      {
+        "id": "73",
+        "label": "Alternative Energien",
+        "count": 32
+      },
+      {
+        "id": "63",
+        "label": "Industriegüter",
+        "count": 22
+      },
+      {
+        "id": "59",
+        "label": "Finanzdienstleister",
+        "count": 21
+      },
+      {
+        "id": "68",
+        "label": "Rohstoffe",
+        "count": 18
+      },
+      {
+        "id": "69",
+        "label": "Telekommunikation",
+        "count": 18
+      },
+      {
+        "id": "53",
+        "label": "Infrastruktur",
+        "count": 15
+      },
+      {
+        "id": "55",
+        "label": "Banken",
+        "count": 15
+      },
+      {
+        "id": "61",
+        "label": "Haushaltsartikel",
+        "count": 15
+      },
+      {
+        "id": "71",
+        "label": "Versorger",
+        "count": 14
+      },
+      {
+        "id": "54",
+        "label": "Automobil",
+        "count": 12
+      },
+      {
+        "id": "93",
+        "label": "Konsumgüter",
+        "count": 12
+      },
+      {
+        "id": "1158",
+        "label": "Goldminen",
+        "count": 12
+      },
+      {
+        "id": "67",
+        "label": "Reise & Freizeit",
+        "count": 10
+      },
+      {
+        "id": "1163",
+        "label": "Wasser",
+        "count": 9
+      },
+      {
+        "id": "64",
+        "label": "Lebensmittel",
+        "count": 8
+      },
+      {
+        "id": "1153",
+        "label": "Biotech",
+        "count": 8
+      },
+      {
+        "id": "62",
+        "label": "Handel",
+        "count": 7
+      },
+      {
+        "id": "66",
+        "label": "Private Equity",
+        "count": 7
+      },
+      {
+        "id": "56",
+        "label": "Bau",
+        "count": 4
+      },
+      {
+        "id": "57",
+        "label": "Chemie",
+        "count": 4
+      },
+      {
+        "id": "70",
+        "label": "Versicherungen",
+        "count": 4
+      },
+      {
+        "id": "309",
+        "label": "Luxus",
+        "count": 4
+      },
+      {
+        "id": "1159",
+        "label": "Agrar",
+        "count": 4
+      },
+      {
+        "id": "65",
+        "label": "Medien",
+        "count": 2
+      }
+    ],
+    "commodity_class": [
+      {
+        "id": "116",
+        "label": "Energie",
+        "count": 75
+      },
+      {
+        "id": "119",
+        "label": "Diversifiziert",
+        "count": 68
+      },
+      {
+        "id": "115",
+        "label": "Edelmetalle",
+        "count": 67
+      },
+      {
+        "id": "117",
+        "label": "Industriemetalle",
+        "count": 61
+      },
+      {
+        "id": "114",
+        "label": "Agrarrohstoffe",
+        "count": 25
+      },
+      {
+        "id": "118",
+        "label": "Nutzvieh",
+        "count": 5
+      },
+      {
+        "id": "144",
+        "label": "Rohstoffe",
+        "count": 1
+      }
+    ],
+    "crypto_currency": [
+      {
+        "id": "1241",
+        "label": "Diversifiziert",
+        "count": 28
+      },
+      {
+        "id": "1260",
+        "label": "Bitcoin",
+        "count": 23
+      },
+      {
+        "id": "1259",
+        "label": "Ethereum",
+        "count": 16
+      },
+      {
+        "id": "1253",
+        "label": "Solana",
+        "count": 9
+      },
+      {
+        "id": "1246",
+        "label": "Polkadot",
+        "count": 7
+      },
+      {
+        "id": "1254",
+        "label": "XRP",
+        "count": 6
+      },
+      {
+        "id": "1255",
+        "label": "Cardano",
+        "count": 6
+      },
+      {
+        "id": "1247",
+        "label": "Chainlink",
+        "count": 5
+      },
+      {
+        "id": "1250",
+        "label": "Avalanche",
+        "count": 5
+      },
+      {
+        "id": "1242",
+        "label": "Stellar",
+        "count": 2
+      },
+      {
+        "id": "1244",
+        "label": "Tezos",
+        "count": 2
+      },
+      {
+        "id": "1248",
+        "label": "Litecoin",
+        "count": 2
+      },
+      {
+        "id": "1249",
+        "label": "Polygon",
+        "count": 2
+      },
+      {
+        "id": "1293",
+        "label": "Aave",
+        "count": 2
+      },
+      {
+        "id": "1243",
+        "label": "Bitcoin Cash",
+        "count": 1
+      },
+      {
+        "id": "1245",
+        "label": "Tron",
+        "count": 1
+      }
+    ],
+    "asset_class": [
+      {
+        "id": "2",
+        "label": "Aktien",
+        "count": 2569
+      },
+      {
+        "id": "3",
+        "label": "Anleihen",
+        "count": 1409
+      },
+      {
+        "id": "4",
+        "label": "Rohstoffe",
+        "count": 305
+      },
+      {
+        "id": "1240",
+        "label": "Kryptowährungen",
+        "count": 143
+      },
+      {
+        "id": "9",
+        "label": "Portfoliokonzepte",
+        "count": 41
+      },
+      {
+        "id": "1160",
+        "label": "Immobilien",
+        "count": 36
+      },
+      {
+        "id": "5",
+        "label": "Geldmarkt",
+        "count": 33
+      }
+    ],
+    "sustainability": [
+      {
+        "id": "null",
+        "label": "",
+        "count": 3391
+      },
+      {
+        "id": "1228",
+        "label": "ESG",
+        "count": 798
+      },
+      {
+        "id": "1227",
+        "label": "SRI",
+        "count": 183
+      },
+      {
+        "id": "1229",
+        "label": "Low Carbon",
+        "count": 164
+      }
+    ],
+    "bond_maturity": [
+      {
+        "id": "1208",
+        "label": "Alle Laufzeiten",
+        "count": 229
+      },
+      {
+        "id": "1194",
+        "label": "0 - 3 Jahre",
+        "count": 167
+      },
+      {
+        "id": "1195",
+        "label": "3 - 5 Jahre",
+        "count": 67
+      },
+      {
+        "id": "1197",
+        "label": "10+ Jahre",
+        "count": 64
+      },
+      {
+        "id": "1207",
+        "label": "7 - 10 Jahre",
+        "count": 42
+      },
+      {
+        "id": "1196",
+        "label": "5 - 7 Jahre",
+        "count": 14
+      },
+      {
+        "id": "1217",
+        "label": "3 - 7 Jahre",
+        "count": 14
+      }
+    ],
+    "wealth_build_eligible": [
+      {
+        "id": "0",
+        "label": 0,
+        "count": 3916
+      },
+      {
+        "id": "1",
+        "label": 1,
+        "count": 620
+      }
+    ],
+    "aum": [
+      {
+        "id": "aum",
+        "label": "AUM",
+        "count": 0,
+        "min": null,
+        "max": null
+      }
+    ],
+    "physical_replication": [
+      {
+        "id": "full",
+        "label": "Vollständig",
+        "count": 1805
+      },
+      {
+        "id": "",
+        "label": "",
+        "count": 1481
+      },
+      {
+        "id": "optimized",
+        "label": "Optimiert",
+        "count": 1250
+      }
+    ],
+    "region": [
+      {
+        "id": "19",
+        "label": "Welt",
+        "count": 1218
+      },
+      {
+        "id": "14",
+        "label": "Nordamerika",
+        "count": 1073
+      },
+      {
+        "id": "1180",
+        "label": "Eurozone",
+        "count": 580
+      },
+      {
+        "id": "15",
+        "label": "Europa",
+        "count": 534
+      },
+      {
+        "id": "20",
+        "label": "Asien",
+        "count": 271
+      },
+      {
+        "id": "17",
+        "label": "Emerging Markets",
+        "count": 215
+      },
+      {
+        "id": "1206",
+        "label": "Asien-Pazifik",
+        "count": 68
+      },
+      {
+        "id": "1177",
+        "label": "Asien-Pazifik (ex Japan)",
+        "count": 32
+      },
+      {
+        "id": "1178",
+        "label": "Asien (ex Japan)",
+        "count": 16
+      },
+      {
+        "id": "21",
+        "label": "Lateinamerika",
+        "count": 12
+      },
+      {
+        "id": "1179",
+        "label": "Europa (ex UK)",
+        "count": 11
+      },
+      {
+        "id": "1182",
+        "label": "Skandinavien",
+        "count": 7
+      },
+      {
+        "id": "16",
+        "label": "Afrika",
+        "count": 3
+      },
+      {
+        "id": "18",
+        "label": "Osteuropa",
+        "count": 3
+      },
+      {
+        "id": "1181",
+        "label": "Osteuropa (ex Russia)",
+        "count": 2
+      },
+      {
+        "id": "1205",
+        "label": "BRIC",
+        "count": 1
+      }
+    ],
+    "bond_eff_maturity": [
+      {
+        "id": "bond_eff_maturity",
+        "label": "bond_eff_maturity",
+        "count": 592,
+        "min": 0,
+        "max": 31.06471
+      }
+    ],
+    "guide_index": [
+      {
+        "id": "null",
+        "label": "",
+        "count": 4239
+      },
+      {
+        "id": "sp-500-etfs",
+        "label": "S&P 500 ETFs",
+        "count": 28
+      },
+      {
+        "id": "msci-emerging-markets-etfs",
+        "label": "MSCI Emerging Markets ETFs",
+        "count": 25
+      },
+      {
+        "id": "msci-world-etfs",
+        "label": "MSCI World ETFs",
+        "count": 22
+      },
+      {
+        "id": "euro-stoxx-50-etfs",
+        "label": "Euro Stoxx 50 ETFs",
+        "count": 19
+      },
+      {
+        "id": "msci-usa-etfs",
+        "label": "MSCI USA ETFs",
+        "count": 15
+      },
+      {
+        "id": "msci-japan-etfs",
+        "label": "MSCI Japan ETFs",
+        "count": 14
+      },
+      {
+        "id": "msci-europe-etfs",
+        "label": "MSCI Europe ETFs",
+        "count": 13
+      },
+      {
+        "id": "nasdaq-100-etfs",
+        "label": "Nasdaq 100 ETFs",
+        "count": 12
+      },
+      {
+        "id": "ftse-100-etfs",
+        "label": "FTSE 100 ETFs",
+        "count": 11
+      },
+      {
+        "id": "msci-emu-etfs",
+        "label": "MSCI EMU ETFs",
+        "count": 10
+      },
+      {
+        "id": "dax-etfs",
+        "label": "DAX ETFs",
+        "count": 9
+      },
+      {
+        "id": "sp-500-equal-weight-etfs",
+        "label": "S&P 500 Equal Weight-ETFs",
+        "count": 9
+      },
+      {
+        "id": "stoxx-europe-600-etfs",
+        "label": "Stoxx Europe 600 ETFs",
+        "count": 8
+      },
+      {
+        "id": "msci-china-a-etfs",
+        "label": "MSCI China A",
+        "count": 7
+      },
+      {
+        "id": "msci-china-etfs",
+        "label": "MSCI China",
+        "count": 7
+      },
+      {
+        "id": "msci-world-ex-usa-etfs",
+        "label": "MSCI World ex USA-ETFs",
+        "count": 7
+      },
+      {
+        "id": "russell-2000-etfs",
+        "label": "Russell 2000 ETFs",
+        "count": 7
+      },
+      {
+        "id": "msci-acwi-etfs",
+        "label": "MSCI ACWI ETFs",
+        "count": 6
+      },
+      {
+        "id": "euro-stoxx-select-dividend-30-etfs",
+        "label": "Euro Stoxx Select Dividend 30 ETFs",
+        "count": 5
+      },
+      {
+        "id": "ftse-all-world-etfs",
+        "label": "FTSE All-World ETFs",
+        "count": 5
+      },
+      {
+        "id": "mdax-etfs",
+        "label": "MDAX ETFs",
+        "count": 5
+      },
+      {
+        "id": "msci-korea-etfs",
+        "label": "MSCI Korea ETFs",
+        "count": 5
+      },
+      {
+        "id": "cac-40-etfs",
+        "label": "CAC 40 ETFs",
+        "count": 4
+      },
+      {
+        "id": "msci-brazil-etfs",
+        "label": "MSCI Brazil ETFs",
+        "count": 4
+      },
+      {
+        "id": "nikkei-225-etfs",
+        "label": "Nikkei 225 ETFs",
+        "count": 4
+      },
+      {
+        "id": "divdax-etfs",
+        "label": "DivDax ETFs",
+        "count": 3
+      },
+      {
+        "id": "dow-jones-industrial-average-etfs",
+        "label": "Dow Joones Industrial Average ETFs",
+        "count": 3
+      },
+      {
+        "id": "jpx-nikkei-400-etfs",
+        "label": "JPX Nikkei 400 ETFs",
+        "count": 3
+      },
+      {
+        "id": "msci-world-equal-weight-etfs",
+        "label": "MSCI World Equal Weight-ETFs",
+        "count": 3
+      },
+      {
+        "id": "msci-world-small-cap-etfs",
+        "label": "MSCI World Small Cap-ETFs",
+        "count": 3
+      },
+      {
+        "id": "tecdax-etfs",
+        "label": "TecDAX ETFs",
+        "count": 3
+      },
+      {
+        "id": "csi-300-etfs",
+        "label": "CSI 300",
+        "count": 2
+      },
+      {
+        "id": "dj-global-titans-50-etfs",
+        "label": "DJ Global Titans 50",
+        "count": 2
+      },
+      {
+        "id": "ftse-developed-world-etfs",
+        "label": "FTSE Developed World ETFs",
+        "count": 2
+      },
+      {
+        "id": "ftse-emerging-markets-etfs",
+        "label": "FTSE Emerging Markets ETFs",
+        "count": 2
+      },
+      {
+        "id": "msci-acwi-imi-etfs",
+        "label": "MSCI ACWI IMI ETFs",
+        "count": 2
+      },
+      {
+        "id": "msci-canada-etfs",
+        "label": "MSCI Canada ETFs",
+        "count": 2
+      },
+      {
+        "id": "msci-pacific-ex-japan-etfs",
+        "label": "MSCI Pacific ex-Japan ETFs",
+        "count": 2
+      },
+      {
+        "id": "stoxx-global-select-dividend-100-etfs",
+        "label": "Stoxx Global Dividend 100",
+        "count": 2
+      },
+      {
+        "id": "ftse-china-etfs",
+        "label": "FTSE China",
+        "count": 1
+      },
+      {
+        "id": "sdax-etfs",
+        "label": "SDAX ETFs",
+        "count": 1
+      }
+    ],
+    "commodity_type": [
+      {
+        "id": "128",
+        "label": "Gold",
+        "count": 34
+      },
+      {
+        "id": "136",
+        "label": "Öl",
+        "count": 32
+      },
+      {
+        "id": "131",
+        "label": "Silber",
+        "count": 17
+      },
+      {
+        "id": "133",
+        "label": "Erdgas",
+        "count": 13
+      },
+      {
+        "id": "140",
+        "label": "Kupfer",
+        "count": 9
+      },
+      {
+        "id": "141",
+        "label": "Nickel",
+        "count": 8
+      },
+      {
+        "id": "143",
+        "label": "Zink",
+        "count": 7
+      },
+      {
+        "id": "129",
+        "label": "Palladium",
+        "count": 6
+      },
+      {
+        "id": "130",
+        "label": "Platin",
+        "count": 6
+      },
+      {
+        "id": "135",
+        "label": "Heizöl",
+        "count": 6
+      },
+      {
+        "id": "139",
+        "label": "Aluminium",
+        "count": 6
+      },
+      {
+        "id": "149",
+        "label": "Blei",
+        "count": 6
+      },
+      {
+        "id": "148",
+        "label": "Zinn",
+        "count": 5
+      },
+      {
+        "id": "121",
+        "label": "Kaffee",
+        "count": 4
+      },
+      {
+        "id": "132",
+        "label": "Benzin",
+        "count": 4
+      },
+      {
+        "id": "123",
+        "label": "Mais",
+        "count": 3
+      },
+      {
+        "id": "126",
+        "label": "Weizen",
+        "count": 3
+      },
+      {
+        "id": "134",
+        "label": "Gasöl",
+        "count": 3
+      },
+      {
+        "id": "120",
+        "label": "Baumwolle",
+        "count": 2
+      },
+      {
+        "id": "124",
+        "label": "Sojabohnen",
+        "count": 2
+      },
+      {
+        "id": "127",
+        "label": "Zucker",
+        "count": 2
+      },
+      {
+        "id": "145",
+        "label": "Magere Schweine",
+        "count": 2
+      },
+      {
+        "id": "1223",
+        "label": "Diesel",
+        "count": 2
+      },
+      {
+        "id": "122",
+        "label": "Kakao",
+        "count": 1
+      },
+      {
+        "id": "125",
+        "label": "Sojaöl",
+        "count": 1
+      },
+      {
+        "id": "137",
+        "label": "Petroleum",
+        "count": 1
+      },
+      {
+        "id": "142",
+        "label": "Rhodium",
+        "count": 1
+      },
+      {
+        "id": "146",
+        "label": "Lebende Rinder",
+        "count": 1
+      },
+      {
+        "id": "150",
+        "label": "Lebendrind",
+        "count": 1
+      },
+      {
+        "id": "1233",
+        "label": "Carbon",
+        "count": 1
+      }
+    ],
+    "distribution": [
+      {
+        "id": false,
+        "label": false,
+        "count": 3112
+      },
+      {
+        "id": true,
+        "label": true,
+        "count": 1424
+      }
+    ],
+    "yield_to_maturity": [
+      {
+        "id": "yield_to_maturity",
+        "label": "yield_to_maturity",
+        "count": 567,
+        "min": 0.59794,
+        "max": 14.13886
+      }
+    ],
+    "promotion_fee": [
+      {
+        "id": false,
+        "count": 905,
+        "label": "false"
+      },
+      {
+        "id": true,
+        "count": 3631,
+        "label": "true"
+      }
+    ],
+    "underlying_index": [
+      {
+        "id": "IDX-5",
+        "label": "MSCI All Country World Investable Market (ACWI IMI)",
+        "count": 2
+      },
+      {
+        "id": "IDX-3",
+        "label": "MSCI All Country World (ACWI)",
+        "count": 6
+      },
+      {
+        "id": "IDX-4",
+        "label": "FTSE All-World",
+        "count": 4
+      },
+      {
+        "id": "IDX-1",
+        "label": "MSCI World",
+        "count": 22
+      },
+      {
+        "id": "IDX-11",
+        "label": "FTSE Developed",
+        "count": 2
+      },
+      {
+        "id": "IDX-6",
+        "label": "MSCI Emerging Markets IMI",
+        "count": 2
+      },
+      {
+        "id": "IDX-2",
+        "label": "MSCI Emerging Markets",
+        "count": 25
+      },
+      {
+        "id": "IDX-12",
+        "label": "FTSE Emerging",
+        "count": 2
+      },
+      {
+        "id": "IDX-7",
+        "label": "MSCI USA",
+        "count": 15
+      },
+      {
+        "id": "IDX-8",
+        "label": "S&P 500",
+        "count": 28
+      },
+      {
+        "id": "IDX-59",
+        "label": "Dow Jones",
+        "count": 4
+      },
+      {
+        "id": "IDX-14",
+        "label": "NASDAQ 100",
+        "count": 13
+      },
+      {
+        "id": "IDX-20",
+        "label": "NASDAQ 100 (EUR-Hedged)",
+        "count": 4
+      },
+      {
+        "id": "IDX-9",
+        "label": "STOXX Europe 600",
+        "count": 9
+      },
+      {
+        "id": "IDX-10",
+        "label": "MSCI Europe",
+        "count": 14
+      },
+      {
+        "id": "IDX-18",
+        "label": "MSCI EMU",
+        "count": 10
+      },
+      {
+        "id": "IDX-17",
+        "label": "Euro Stoxx 50",
+        "count": 19
+      },
+      {
+        "id": "IDX-16",
+        "label": "MSCI Pacific (ex Japan)",
+        "count": 6
+      },
+      {
+        "id": "IDX-58",
+        "label": "MSCI EM Asia",
+        "count": 6
+      },
+      {
+        "id": "IDX-13",
+        "label": "MSCI Japan",
+        "count": 13
+      },
+      {
+        "id": "IDX-19",
+        "label": "MSCI Japan (EUR-Hedged)",
+        "count": 4
+      },
+      {
+        "id": "IDX-21",
+        "label": "Nikkei 225",
+        "count": 4
+      },
+      {
+        "id": "IDX-15",
+        "label": "DAX",
+        "count": 10
+      },
+      {
+        "id": "IDX-62",
+        "label": "MDAX",
+        "count": 5
+      },
+      {
+        "id": "IDX-63",
+        "label": "SDAX",
+        "count": 1
+      },
+      {
+        "id": "IDX-64",
+        "label": "TecDAX",
+        "count": 3
+      },
+      {
+        "id": "IDX-22",
+        "label": "Bloomberg Barclays Global Aggregate Bond",
+        "count": 2
+      },
+      {
+        "id": "IDX-23",
+        "label": "Bloomberg Barclays Global Aggregate Bond (EUR-Hedged)",
+        "count": 2
+      },
+      {
+        "id": "IDX-24",
+        "label": "Bloomberg Barclays Global Aggregate Bond (USD-Hedged)",
+        "count": 2
+      },
+      {
+        "id": "IDX-25",
+        "label": "Bloomberg Barclays Global Aggregate Float-Adjusted and Scaled Index (EUR-Hedged)",
+        "count": 2
+      },
+      {
+        "id": "IDX-66",
+        "label": "FTSE 100",
+        "count": 11
+      },
+      {
+        "id": "IDX-71",
+        "label": "MSCI United Kingdom",
+        "count": 8
+      },
+      {
+        "id": "IDX-61",
+        "label": "MSCI Brazil",
+        "count": 4
+      },
+      {
+        "id": "IDX-69",
+        "label": "FTSE MIB",
+        "count": 6
+      },
+      {
+        "id": "IDX-68",
+        "label": "CAC 40",
+        "count": 4
+      },
+      {
+        "id": "IDX-65",
+        "label": "JPX-Nikkei Index 400",
+        "count": 4
+      },
+      {
+        "id": "IDX-73",
+        "label": "IBEX 35",
+        "count": 2
+      },
+      {
+        "id": "IDX-74",
+        "label": "ATX",
+        "count": 2
+      },
+      {
+        "id": "IDX-70",
+        "label": "MSCI India",
+        "count": 6
+      },
+      {
+        "id": "IDX-76",
+        "label": "STOXX Global Select Dividend 100",
+        "count": 2
+      },
+      {
+        "id": "IDX-67",
+        "label": "EURO STOXX Select Dividend 30",
+        "count": 5
+      },
+      {
+        "id": "IDX-75",
+        "label": "MSCI World Small Cap",
+        "count": 2
+      },
+      {
+        "id": "IDX-60",
+        "label": "Russell 2000",
+        "count": 5
+      },
+      {
+        "id": "F000015IIG",
+        "label": "Alerian Midstream Energy Dividend NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000NCSB",
+        "label": "BBgBarc Captl Euro GovBond 5-7Yr TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000WC62",
+        "label": "BBgBarc EM Lcl Currency Lqd Gov TR USD",
+        "count": 3
+      },
+      {
+        "id": "F00001O9T6",
+        "label": "BBgBarc E Un Co ex F HCS 8% Ca B TR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00001EGBG",
+        "label": "BBgBarc Eur Area Liquid Cor 1-5Y TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001E1NC",
+        "label": "BBgBarc Eur Gov Bd 10Y Term TR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00001K969",
+        "label": "BBgBarc Eur Gov Bd 1-3Y Term TR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00001K96A",
+        "label": "BBgBarc Eur Gov Bd 3-7Y Term TR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06EII",
+        "label": "BBgBarc Euro 10+ Year Treasury TR EUR",
+        "count": 1
+      },
+      {
+        "id": "XIUSA00108",
+        "label": "BBgBarc Euro Agg Bond TR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06DWW",
+        "label": "BBgBarc Euro Agg Fincls TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001L3ME",
+        "label": "BBgBarc Euro Aggr Covered 3% Cap",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06EI3",
+        "label": "BBgBarc Euro Agg Treasury 3-5 Yr TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001F0QB",
+        "label": "BBgBarc Euro Corp Int Rt GR Hdg TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001QG2P",
+        "label": "BBgBarc Euro Corporate Bond TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000PGEZ",
+        "label": "BBgBarc Euro Gov 5Y Term TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000ZQGH",
+        "label": "BBgBarc Euro Gov Inf-Lnkd Bond TR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00001O9SM",
+        "label": "BBgBarc Euro Gov Slc 5-7 Y",
+        "count": 1
+      },
+      {
+        "id": "F00001I9BO",
+        "label": "BBgBarc Euro Gov Slct 1-3 Y",
+        "count": 1
+      },
+      {
+        "id": "F00001O9SY",
+        "label": "BBgBarc Euro Gov Slct 3-5 Y",
+        "count": 1
+      },
+      {
+        "id": "F00000SEC4",
+        "label": "BBgBarc Euro Govt Inf Lkd\u003E10Y TR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06FMA",
+        "label": "BBgBarc Euro Govt Infl Lkd TR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00000NCS8",
+        "label": "BBgBarc Euro GvBond 10-15Y TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001O9SJ",
+        "label": "BBgBarc Euro Trsy Majors Bd",
+        "count": 1
+      },
+      {
+        "id": "F00001ESW7",
+        "label": "BBgBarc EUR Trsy 50bn 10-15 Y Bd TR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00001NJKG",
+        "label": "BBgBarc EUR Trsy 50bn 1-3 Y Bd TR EUR",
+        "count": 2
+      },
+      {
+        "id": "F000014ZLD",
+        "label": "BBgBarc EUR Trsy 50bn 15+ Y Bd TR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00001NJKK",
+        "label": "BBgBarc EUR Trsy 50bn 3-5 Y Bd TR EUR",
+        "count": 2
+      },
+      {
+        "id": "F000014ZLN",
+        "label": "BBgBarc EUR Trsy 50bn 5-7 Y Bd TR EUR",
+        "count": 2
+      },
+      {
+        "id": "F000014ZLE",
+        "label": "BBgBarc EUR Trsy 50bn 7-10 Y Bd TR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00000U5ZW",
+        "label": "BBgBarc Gbl Agg Corp 1229 TR Hdg EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000SPSM",
+        "label": "BBgBarc GBP Corporate 0-5 Yr TR GBP",
+        "count": 1
+      },
+      {
+        "id": "F000011QXV",
+        "label": "BBgBarc Gilts Float Adjusted TR GBP",
+        "count": 3
+      },
+      {
+        "id": "F000011QXX",
+        "label": "BBgBarc Global Agg Corp USD TR USD",
+        "count": 4
+      },
+      {
+        "id": "FOUSA08PFL",
+        "label": "BBgBarc Global Germany TR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA05QG0",
+        "label": "BBgBarc Interm Corp TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001EMTH",
+        "label": "BBgBarc MSCI Eu Cor Sus&SRI 0-5Y GR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001JEBJ",
+        "label": "BBgBarcMSCI EuCpESG BB+ StSRI0-3Y TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001QI39",
+        "label": "BBgBarc MSCI EUR Co Lq xFi SRISus TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001THH1",
+        "label": "BBgBarc MSCI EUR Cor Liq SRI Sust TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001EMTK",
+        "label": "BBgBarc MSCI USD Liq IG Co Su&SRI TR USD",
+        "count": 2
+      },
+      {
+        "id": "FOUSA05YDY",
+        "label": "BBgBarc Sterling Agg Corp TR GBP",
+        "count": 1
+      },
+      {
+        "id": "F00000T0J1",
+        "label": "BBgBarc UK Gilt 15+ TR GBP",
+        "count": 1
+      },
+      {
+        "id": "F00000QEJL",
+        "label": "BBgBarc US Corporate 0-3 Year TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000PA3U",
+        "label": "BBgBarc US Corporate 10+ Yr TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001DDYX",
+        "label": "BBgBarc USD Liquid IG Corporate TR USD",
+        "count": 5
+      },
+      {
+        "id": "FOUSA06DVS",
+        "label": "BBgBarc US Govt Infl Lkd TR USD",
+        "count": 8
+      },
+      {
+        "id": "FOUSA06VIM",
+        "label": "BBgBarc US Treasury Bill 1-3 Mon TR USD",
+        "count": 1
+      },
+      {
+        "id": "FOUSA05QDG",
+        "label": "BBgBarc US Treasury TR USD(1987)",
+        "count": 1
+      },
+      {
+        "id": "F000013ETS",
+        "label": "BBgBarc US Trsy Floating Rate",
+        "count": 1
+      },
+      {
+        "id": "F00000UREA",
+        "label": "Bloomberg Alum Sub Euro Hdg TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000URE5",
+        "label": "Bloomberg Brent Crud Sub £HdgDily TR GBP",
+        "count": 1
+      },
+      {
+        "id": "F00000TGJ5",
+        "label": "Bloomberg Cmmdty exAgrcltr/Lvstk USD TR",
+        "count": 1
+      },
+      {
+        "id": "F00001BQ8J",
+        "label": "Bloomberg Cmmdty exAgrcltr/Lvstk USD TR",
+        "count": 1
+      },
+      {
+        "id": "F00000WE9G",
+        "label": "Bloomberg Commodity Forward 3MHdg TR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA05MJH",
+        "label": "Bloomberg Commodity Forward 3 Mon TR USD",
+        "count": 2
+      },
+      {
+        "id": "F00000TWV5",
+        "label": "Bloomberg Commodity TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001MAXM",
+        "label": "Bloomberg Commodity TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000URE9",
+        "label": "Bloomberg Copp Sub Euro Hdg TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000URDX",
+        "label": "Bloomberg Indst Mtls Sub £Hdg Dly TR GBP",
+        "count": 1
+      },
+      {
+        "id": "F00000WE9A",
+        "label": "Bloomberg IndustMtl Sub €HdgDaily TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000URE8",
+        "label": "Bloomberg Nickel Sub Euro Hdg Dly TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001MAXK",
+        "label": "Bloomberg Sub Agri 3 Mon Fwd TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001MAXJ",
+        "label": "Bloomberg Sub Agriculture TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001MAXO",
+        "label": "Bloomberg Sub Aluminum TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000NS0B",
+        "label": "Bloomberg Sub Brent Crude TR USD",
+        "count": 2
+      },
+      {
+        "id": "F00001MAXP",
+        "label": "Bloomberg Sub Brent Crude TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000URD3",
+        "label": "Bloomberg Sub BrentCrud Hgd TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001M9Q7",
+        "label": "Bloomberg Sub Cocoa TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000URD2",
+        "label": "Bloomberg Sub Coffee Hgd TR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA08TIB",
+        "label": "Bloomberg Sub Coffee TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001MAXQ",
+        "label": "Bloomberg Sub Copper TR USD",
+        "count": 1
+      },
+      {
+        "id": "FOUSA08TIC",
+        "label": "Bloomberg Sub Copper TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000URD1",
+        "label": "Bloomberg Sub Corn Hgd TR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA08TIE",
+        "label": "Bloomberg Sub Corn TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000URD0",
+        "label": "Bloomberg Sub Cotton Hgd TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001MAXS",
+        "label": "Bloomberg Sub Cotton TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001M9Q8",
+        "label": "Bloomberg Sub Crude Oil 3 Mon Fwd TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001MAXL",
+        "label": "Bloomberg Sub Crude Oil 3 Mon Fwd TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001MAXU",
+        "label": "Bloomberg Sub Energy 3 Mon Fwd TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001MAXT",
+        "label": "Bloomberg Sub Energy TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000URCZ",
+        "label": "Bloomberg Sub Gold Hgd TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001MAXV",
+        "label": "Bloomberg Sub Gold TR USD",
+        "count": 1
+      },
+      {
+        "id": "FOUSA08TIH",
+        "label": "Bloomberg Sub Gold TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001MAXW",
+        "label": "Bloomberg Sub Grains TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001MAXX",
+        "label": "Bloomberg Sub Heating Oil TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001MARP",
+        "label": "Bloomberg Sub Indl Met 3 Mon Fwd TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001MANT",
+        "label": "Bloomberg Sub Industrial Metals TR USD",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06BIU",
+        "label": "Bloomberg Sub Industrial Metals TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001M9PB",
+        "label": "Bloomberg Sub Lead TR USD",
+        "count": 1
+      },
+      {
+        "id": "FOUSA08TII",
+        "label": "Bloomberg Sub Lean Hogs TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001MAXG",
+        "label": "Bloomberg Sub Live Cattle TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001MAXH",
+        "label": "Bloomberg Sub Livestock TR USD",
+        "count": 1
+      },
+      {
+        "id": "FOUSA08TIK",
+        "label": "Bloomberg Sub Natural Gas TR USD",
+        "count": 2
+      },
+      {
+        "id": "F00000URCY",
+        "label": "Bloomberg Sub NaturlGas Hgd TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001M9PD",
+        "label": "Bloomberg Sub Nickel TR USD",
+        "count": 1
+      },
+      {
+        "id": "FOUSA08TIL",
+        "label": "Bloomberg Sub Nickel TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001M9Q4",
+        "label": "Bloomberg Sub Petroleum TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001M9Q5",
+        "label": "Bloomberg Sub Precious Metals TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000URCX",
+        "label": "Bloomberg Sub Silver Hgd TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001M9GB",
+        "label": "Bloomberg Sub Silver TR USD",
+        "count": 1
+      },
+      {
+        "id": "FOUSA08TIO",
+        "label": "Bloomberg Sub Silver TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001MAXN",
+        "label": "Bloomberg Sub Softs TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001MAXY",
+        "label": "Bloomberg Sub Soybean Oil TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000URCW",
+        "label": "Bloomberg Sub Soybeans Hgd TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001M9GC",
+        "label": "Bloomberg Sub Soybean TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000URCV",
+        "label": "Bloomberg Sub Sugar Hgd TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001M9GD",
+        "label": "Bloomberg Sub Sugar TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001M9GE",
+        "label": "Bloomberg Sub Tin TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001M9PA",
+        "label": "Bloomberg Sub Unleaded Gas TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000URCU",
+        "label": "Bloomberg Sub Wheat Hgd TR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA08TIR",
+        "label": "Bloomberg Sub Wheat TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000URCT",
+        "label": "Bloomberg Sub WTI Crd Oil Hgd Dly TR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA08TID",
+        "label": "Bloomberg Sub WTI Crude Oil TR USD",
+        "count": 2
+      },
+      {
+        "id": "F00000URCS",
+        "label": "Bloomberg Sub Zinc Hgd TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001M9P8",
+        "label": "Bloomberg Sub Zinc TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000URDZ",
+        "label": "Bloomberg WTI CruOil Sub £Hdg Dly TR GBP",
+        "count": 1
+      },
+      {
+        "id": "F00000WLVG",
+        "label": "BNP Paribas Bund Future MV EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000V28G",
+        "label": "BNP Paribas Long Gilt Future MV GBP",
+        "count": 2
+      },
+      {
+        "id": "F00000WLVF",
+        "label": "BNP Paribas Long Term BTP Future MV EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000V7W0",
+        "label": "BNP Paribas US Trsy Long Bd Futu MV USD",
+        "count": 1
+      },
+      {
+        "id": "F00000X4E2",
+        "label": "BNPP Em Equities Rolling Futures ER USD",
+        "count": 2
+      },
+      {
+        "id": "F00000ZDHY",
+        "label": "BNPP Energy&Mtl Enhanced Roll TR USD",
+        "count": 3
+      },
+      {
+        "id": "F00000YJPX",
+        "label": "BNPP Equity Low Vol Europe TR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00001SFRG",
+        "label": "BNPP Equity Quality Europe TR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00001SFRI",
+        "label": "BNPP Equity Value Europe TR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00001SFRR",
+        "label": "BNPP High Div Yield Europe NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001CQNM",
+        "label": "BofAML 0-5Y Euro DM HY 2% Constnd TR EUR",
+        "count": 2
+      },
+      {
+        "id": "F0000144ZY",
+        "label": "BVP Nasdaq Emerging Cloud USD",
+        "count": 1
+      },
+      {
+        "id": "F00001R5H1",
+        "label": "CBK FED Funds Effective Rate TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000WEWF",
+        "label": "CMS Rhodium Sp EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000V0SO",
+        "label": "CSI 300 NR CNY",
+        "count": 2
+      },
+      {
+        "id": "F00001MERB",
+        "label": "DAX® 50 ESG",
+        "count": 2
+      },
+      {
+        "id": "F00001S4CC",
+        "label": "DAX ex Financials 30 PR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001S4C7",
+        "label": "DAXplus Maximum Dividend PR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000TYJF",
+        "label": "DB Brent Crude Oil Booster TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000TYJR",
+        "label": "DBLCI Optimum Yld Brent Crude Oil TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001I70E",
+        "label": "Deutsche Bank Euro Overnight Rate TR",
+        "count": 3
+      },
+      {
+        "id": "F00001S4C1",
+        "label": "Deutsche Börse EUROGOV DEU 1-3 PR EUR",
+        "count": 6
+      },
+      {
+        "id": "F000015CUD",
+        "label": "DJ Asia Pac Select Dividend 50",
+        "count": 1
+      },
+      {
+        "id": "F00000UVO8",
+        "label": "DJ China Offshore 50 NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000TYFT",
+        "label": "DJ EM Select Dividend TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000OT7A",
+        "label": "DJ Gbl Select RESI NR USD",
+        "count": 2
+      },
+      {
+        "id": "F00000UVMI",
+        "label": "DJ Gbl Titans 50 NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000URHF",
+        "label": "DJ Sus Eur ExAl,Tb,Ga,Am&Fi Ad En NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001BT95",
+        "label": "DJ Sustain World Enlarg Ex ATGAF NR USD",
+        "count": 1
+      },
+      {
+        "id": "XIUSA04GVI",
+        "label": "DJ US Select Dividend TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001CYH7",
+        "label": "Elwood Blockchain Global Equity USD",
+        "count": 1
+      },
+      {
+        "id": "F00001FT9R",
+        "label": "EMIX Global Mining TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001LX4N",
+        "label": "EMQQ The EM Internet & Ecommerce USD",
+        "count": 1
+      },
+      {
+        "id": "F00001S4CH",
+        "label": "EURO iSTOXX Ex Financials HD 50® PR",
+        "count": 1
+      },
+      {
+        "id": "F00000WT87",
+        "label": "EURO iSTOXX High Divnd Low Vol 50 NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001DXYF",
+        "label": "Euro Short Term Rate Yld EUR",
+        "count": 4
+      },
+      {
+        "id": "F00000U5CN",
+        "label": "EURO STOXX 50 Daily Double Short GR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000UYB5",
+        "label": "EURO STOXX 50 Daily Leverage 3x NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000UY9A",
+        "label": "EURO STOXX 50 Daily Leverage NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000V1XU",
+        "label": "EURO STOXX 50 Daily Short GR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00000V4ZK",
+        "label": "EURO STOXX Banks Daily Leverage 3 NR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06CUG",
+        "label": "EURO STOXX Banks NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000SEE7",
+        "label": "EURO STOXX Low Risk Weighted 100 NR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06CV8",
+        "label": "EURO STOXX Mid NR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06CVA",
+        "label": "EURO STOXX NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000XL5W",
+        "label": "EURO STOXX Optimised Banks NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F000016INX",
+        "label": "Euro STOXX Quality Dividend 50 NR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06CVC",
+        "label": "EURO STOXX Small NR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06F5C",
+        "label": "EURO STOXX TMI Large Growth NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000ZKJD",
+        "label": "Fidelity EM Quality Income NR USD",
+        "count": 2
+      },
+      {
+        "id": "F00000ZKJG",
+        "label": "Fidelity Europe Quality Income NR EUR",
+        "count": 3
+      },
+      {
+        "id": "F00000YILG",
+        "label": "Fidelity US Quality Income NR USD",
+        "count": 4
+      },
+      {
+        "id": "F000014JZP",
+        "label": "Foxberry Sstnblty Cnsnss US TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001478R",
+        "label": "Foxberry Sustnb Consensus Eur TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F000015NW6",
+        "label": "Foxberry Tem Res Sus Future NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000014TYS",
+        "label": "Foxberry Tmic Rrch Cybsy&Dt Prcy NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001D0OI",
+        "label": "FSE Daxglobal Gold Min TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000WKXY",
+        "label": "FSE DIVDAX PR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA05MJC",
+        "label": "FSE DIVDAX TR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06WII",
+        "label": "FSE Eb.Rexx Gov Germ10.5Pls TR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06WIC",
+        "label": "FSE Eb.Rexx Gov Germ 2.5-5.5 TR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06WIK",
+        "label": "FSE Eb.Rexx Gov Germ5.5-10.5 TR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06WIH",
+        "label": "FSE Eb.Rexx Gov Germ Overall TR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA05QJH",
+        "label": "FSE LevDAX X2 TR EUR",
+        "count": 4
+      },
+      {
+        "id": "F00000MUE6",
+        "label": "FSE Short DAX X2 TR EUR",
+        "count": 3
+      },
+      {
+        "id": "F00000WBOH",
+        "label": "FTSE 100 Daily Leveraged RT TR GBP",
+        "count": 1
+      },
+      {
+        "id": "F00000WBM4",
+        "label": "FTSE 100 Daily Short Strategy RT GR GBP",
+        "count": 1
+      },
+      {
+        "id": "F00000WBOJ",
+        "label": "FTSE 100 Daily Super Short RT GR GBP",
+        "count": 1
+      },
+      {
+        "id": "F00001CPXP",
+        "label": "FTSE 100 Short GR GBP",
+        "count": 1
+      },
+      {
+        "id": "F00000UYE6",
+        "label": "FTSE 100 Super Leveraged RT TR GBP",
+        "count": 1
+      },
+      {
+        "id": "F00000UYL7",
+        "label": "FTSE 100 Ultra Short Str RT GR GBP",
+        "count": 1
+      },
+      {
+        "id": "F00000WBO9",
+        "label": "FTSE 250 Daily Leveraged RT TR GBP",
+        "count": 1
+      },
+      {
+        "id": "F00000WBO7",
+        "label": "FTSE 250 Daily Short Strategy RT GR GBP",
+        "count": 1
+      },
+      {
+        "id": "XIUSA04CG5",
+        "label": "FTSE 250 TR GBP",
+        "count": 5
+      },
+      {
+        "id": "XIUSA04CGI",
+        "label": "FTSE AllSh TR GBP",
+        "count": 2
+      },
+      {
+        "id": "F00000UR4T",
+        "label": "FTSE AW Dv Europe Ex UK TR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00000Z01E",
+        "label": "FTSE AW High Dividend Yield TR USD",
+        "count": 2
+      },
+      {
+        "id": "F00000UR4S",
+        "label": "FTSE AW North America TR USD",
+        "count": 2
+      },
+      {
+        "id": "F000013P3A",
+        "label": "FTSE Brazil 30/18 Capped NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000OQNL",
+        "label": "FTSE BRIC 50 NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000013P3D",
+        "label": "FTSE China 30/18 Capped NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001O7AV",
+        "label": "FTSE China A-H 50 GR CNY",
+        "count": 1
+      },
+      {
+        "id": "F00001B0CQ",
+        "label": "FTSE Chinese Gov&Policy Bk Bd 1-10Y USD",
+        "count": 1
+      },
+      {
+        "id": "F00000WCPA",
+        "label": "FTSE Developed AP Ex JPN NR USD",
+        "count": 2
+      },
+      {
+        "id": "F000013IYJ",
+        "label": "FTSE Developed Europe TR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00000XAZF",
+        "label": "FTSE Em Hi Div Low Volatil NR USD",
+        "count": 1
+      },
+      {
+        "id": "FOUSA09LHJ",
+        "label": "FTSE EPRA Nareit Developed Europe NR EUR",
+        "count": 2
+      },
+      {
+        "id": "FOUSA09LQ9",
+        "label": "FTSE EPRA Nareit Dv Eur ex UK Cap NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000X9QT",
+        "label": "FTSE EPRA Nareit Dv Eur Ex UK Div+NR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00000PKCK",
+        "label": "FTSE EPRA Nareit Dvlp Asia Div+ NR USD",
+        "count": 2
+      },
+      {
+        "id": "F00000W39Y",
+        "label": "FTSE EPRA Nareit Dvlp Eur Ex UK NR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA09MFH",
+        "label": "FTSE EPRA Nareit Eurozone Capped NR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00000SQ73",
+        "label": "FTSE Germany All Cap TR LCL",
+        "count": 1
+      },
+      {
+        "id": "F000014CG1",
+        "label": "FTSE GS China Gov BD NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000013P3E",
+        "label": "FTSE India 30/18 Capped",
+        "count": 1
+      },
+      {
+        "id": "XIUSA04CS2",
+        "label": "FTSE Japan TR USD",
+        "count": 4
+      },
+      {
+        "id": "F000013P3J",
+        "label": "FTSE Korea 30/18 Capped NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000YFWT",
+        "label": "FTSE MIB Banks 15% Capped NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000WBR3",
+        "label": "FTSE MIB Super Lvg RT NetTax Lux TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000P9YF",
+        "label": "FTSE MTS Ex-Bank of Italy BOT TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000UOB7",
+        "label": "FTSE MTS Govt Bill 0-6 Months Cap TR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00001GAVT",
+        "label": "FTSE MTS Govt Broad IG TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000PFJ1",
+        "label": "FTSE MTS Highest-Rated Govt TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001E1WA",
+        "label": "FTSE MTS LR Euroz Govt Bd IG 1-3Y TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F000016JOS",
+        "label": "FTSE MTS MP HR MacWeight AlMat GR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000WBUH",
+        "label": "FTSE RAFI All-World 3000 NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000OMPV",
+        "label": "FTSE RAFI Emerging NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000TYDC",
+        "label": "FTSE RAFI Europe NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000OIRY",
+        "label": "FTSE RAFI US 1000 NR USD",
+        "count": 1
+      },
+      {
+        "id": "XIUSA000WW",
+        "label": "FTSE Treasury Bill 3 Mon USD",
+        "count": 1
+      },
+      {
+        "id": "F00000U4CP",
+        "label": "FTSE UK Dividend Plus NR GBP",
+        "count": 1
+      },
+      {
+        "id": "F000015OTX",
+        "label": "FTSE US Treasury Short Duration TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001SV9W",
+        "label": "FTSE Vietnam TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000USK9",
+        "label": "Gold",
+        "count": 1
+      },
+      {
+        "id": "F00000URAK",
+        "label": "Gold London PM Fixing EUR",
+        "count": 2
+      },
+      {
+        "id": "F00000ZXOS",
+        "label": "Goldman Sachs ActiveBeta EM NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000V132",
+        "label": "Gold Spot Price",
+        "count": 1
+      },
+      {
+        "id": "F00000ZM6O",
+        "label": "GPR Global 100 GR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001NQIQ",
+        "label": "GS ActiveBeta US Large Cap Eq NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001THH2",
+        "label": "Hang Seng China Enterprises NR HKD",
+        "count": 2
+      },
+      {
+        "id": "F000015NBX",
+        "label": "Hang Seng TECH NR HKD",
+        "count": 1
+      },
+      {
+        "id": "F00000Z0ID",
+        "label": "Henry Hub Natural Gas Futures TR USD",
+        "count": 1
+      },
+      {
+        "id": "F000010IGE",
+        "label": "iBoxx CoCo Liquid Dev Europe AT1 USD",
+        "count": 6
+      },
+      {
+        "id": "F00001PM81",
+        "label": "iBoxx Euro Sovereign Eurozone AAA TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000UMA1",
+        "label": "ICE BofA 0-5 EM USD Gvt ex-144a TR USD",
+        "count": 2
+      },
+      {
+        "id": "F00000NFHD",
+        "label": "ICE BofA 0-5Y US HY Constnd TR USD",
+        "count": 6
+      },
+      {
+        "id": "FOUSA08CT6",
+        "label": "ICE BofA 1-5Y EUR Corp TR EUR",
+        "count": 1
+      },
+      {
+        "id": "XIUSA04EF9",
+        "label": "ICE BofA 1-5Y US Corp TR USD",
+        "count": 2
+      },
+      {
+        "id": "F0000159K9",
+        "label": "ICE BofA 3-5Y EUR Govt Cbn Rd EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000WBRZ",
+        "label": "ICE BofA Div HY US EMs Corp + TR USD",
+        "count": 1
+      },
+      {
+        "id": "F0000125KH",
+        "label": "ICE BofAML Sterling Govt Bill TR GBP",
+        "count": 1
+      },
+      {
+        "id": "XIUSA04CX8",
+        "label": "ICE BofA US 3M Trsy Bill TR USD",
+        "count": 2
+      },
+      {
+        "id": "F00000YVUI",
+        "label": "ICE Brent Crude Oil TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001CSJW",
+        "label": "ICE Global Fallen Ang HY 10% Con TR USN",
+        "count": 1
+      },
+      {
+        "id": "F00000WX0E",
+        "label": "ICE U.S. Treasury 3-7 Year Bond TR USD",
+        "count": 5
+      },
+      {
+        "id": "F00000XH1M",
+        "label": "ICE U.S. Treasury Core Bond TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001660G",
+        "label": "iClima Global Decarbonisation Enablers",
+        "count": 1
+      },
+      {
+        "id": "F00000XL5X",
+        "label": "IISL Nifty 50 NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000013GTK",
+        "label": "Indxx Ad Life Sc & Smt HC Thmt NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001NSXZ",
+        "label": "ISE CTA Cloud Computing TR USD",
+        "count": 1
+      },
+      {
+        "id": "F0000150UD",
+        "label": "JPM China Govt + PB20% Cap 1-10 Y TR CNY",
+        "count": 1
+      },
+      {
+        "id": "F00001D0BS",
+        "label": "JPM EMBI Global Core Hedge NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001018K",
+        "label": "JPM EM Risk-Aware Bond TR USD",
+        "count": 5
+      },
+      {
+        "id": "F00001FMNV",
+        "label": "JPM EMU GBI 1-3Y Select Maturity",
+        "count": 1
+      },
+      {
+        "id": "F00001FMNR",
+        "label": "JPM EMU GBI Select Maturity",
+        "count": 1
+      },
+      {
+        "id": "F00000ONZ2",
+        "label": "JPM GBI-EM Global Core TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001FMNS",
+        "label": "JPM GBI US 1-3Y Select Maturity",
+        "count": 1
+      },
+      {
+        "id": "F000013ZGK",
+        "label": "JPM USD EM IG ESG Div Bd TR USD",
+        "count": 3
+      },
+      {
+        "id": "F00000YP11",
+        "label": "KBW NASDAQ Financial Technology NR USD",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06E46",
+        "label": "LBMA Gold Price PM USD",
+        "count": 16
+      },
+      {
+        "id": "F00001IENW",
+        "label": "LibertyQ Asia Ex Japan Equity NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000XI12",
+        "label": "LibertyQ Emerging Markets NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000Z1QO",
+        "label": "LibertyQ US Large Cap Equity NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000J814",
+        "label": "Light Sweet Crude Oil Future",
+        "count": 1
+      },
+      {
+        "id": "F00000YZYF",
+        "label": "LME Aluminium Futures TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000YZYG",
+        "label": "LME Copper Futures TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000YZYK",
+        "label": "LME Lead Futures TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000YZYH",
+        "label": "LME Nickel Futures TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000YZYJ",
+        "label": "LME Tin Futures TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000YZYI",
+        "label": "LME Zinc Futures TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000HLEN",
+        "label": "LPX Major Market TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001CXEK",
+        "label": "Markit iBoxx $ Lq FRN IG Corp 100 TR USD",
+        "count": 3
+      },
+      {
+        "id": "F00000X915",
+        "label": "Markit iBoxx EUR Brkvn Infl Fr&Ge TR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA05OW9",
+        "label": "Markit iBoxx EUR Covered TR",
+        "count": 1
+      },
+      {
+        "id": "F00000WMFN",
+        "label": "Markit iBoxx EUR Crp BBB-BB(5%IC) TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F000013LC5",
+        "label": "Markit iBoxx EUREZDEESFRITNL15-30 TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F000013LCE",
+        "label": "Markit iBoxx EUREZ(DEESFRITNL)25+ TR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA05P1Y",
+        "label": "Markit iBoxx EUR Germany 1-3 TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001B0BW",
+        "label": "Markit iBoxx EUR Germany Cvrd Cap TR",
+        "count": 1
+      },
+      {
+        "id": "F00000TI1P",
+        "label": "Markit iBoxx EUR Liquid Corp Large TR",
+        "count": 1
+      },
+      {
+        "id": "F0000114TS",
+        "label": "Markit iBoxx EUR Liquid Covered GR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000TI1G",
+        "label": "Markit iBoxx EUR Lq Corp Diversified TR",
+        "count": 1
+      },
+      {
+        "id": "F00001S4C9",
+        "label": "Markit iBoxx EUR Lq Germany Cvrd Div TR",
+        "count": 1
+      },
+      {
+        "id": "F00001S4CB",
+        "label": "Markit iBoxx EUR Lq Non-Fin Divers TR",
+        "count": 1
+      },
+      {
+        "id": "F00000TI1Q",
+        "label": "Markit iBoxx EUR Lq Sov AAA-AA 1-5 TR",
+        "count": 1
+      },
+      {
+        "id": "F00000TI08",
+        "label": "Markit iBoxx EUR Lq Sov Cap 1.5-10.5 TR",
+        "count": 1
+      },
+      {
+        "id": "F00001S4BX",
+        "label": "Markit iBoxx EUR Lq Sov Divers 1-10 TR",
+        "count": 6
+      },
+      {
+        "id": "F00000TI1R",
+        "label": "Markit iBoxx EUR Pfd briefe TR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA05P2U",
+        "label": "Markit iBoxx EUR Sovereigns TR",
+        "count": 4
+      },
+      {
+        "id": "F00000V257",
+        "label": "Markit iBoxx EUR Sov EuroZ Yield+ TR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00001EMTJ",
+        "label": "Markit iBoxx USD Corp 1-20 Yield Plus",
+        "count": 2
+      },
+      {
+        "id": "F000016P8K",
+        "label": "Markit iBoxx USD EM Sov QualityW TR USD",
+        "count": 3
+      },
+      {
+        "id": "F00000TV3L",
+        "label": "Markit iBoxx USD Treasuries TR",
+        "count": 3
+      },
+      {
+        "id": "F00000V25M",
+        "label": "Markit iTraxx Crossover 5Y Short TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000X1LU",
+        "label": "Morningstar DM LC Div Leaders GR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000U3TD",
+        "label": "Morningstar Gbl Mult-At Infra GR USD",
+        "count": 1
+      },
+      {
+        "id": "F0000106FB",
+        "label": "Morningstar Gbl Wide Moat Focus NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000JQA8",
+        "label": "Morningstar MLP Composite TR USD",
+        "count": 2
+      },
+      {
+        "id": "F00000T63E",
+        "label": "Morningstar UK NR GBP",
+        "count": 1
+      },
+      {
+        "id": "F000011IK2",
+        "label": "Morningstar US TME NR SEK",
+        "count": 2
+      },
+      {
+        "id": "F000016ES8",
+        "label": "Morningstar Wide Moat Focus TR USD",
+        "count": 1
+      },
+      {
+        "id": "XIUSA04EVS",
+        "label": "MSCI AC Asia Ex Japan NR USD",
+        "count": 3
+      },
+      {
+        "id": "F00001DXT5",
+        "label": "MSCI AC Asia Ex Japan NR USD",
+        "count": 1
+      },
+      {
+        "id": "FOUSA07GE8",
+        "label": "MSCI AC FE Ex JPN Small NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000WMFT",
+        "label": "MSCI ACWI EM Cons Growth NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001RG8X",
+        "label": "MSCI ACWI IMI Dig Eco ESG Fil NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000014YRN",
+        "label": "MSCI ACWI IMI Dis Tech ESG Fil NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001R6PF",
+        "label": "MSCI ACWI IMI Future Mob ESG Fil NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001RG8W",
+        "label": "MSCI ACWI IMI Mlnl ESG Fil NR USD",
+        "count": 1
+      },
+      {
+        "id": "XIUSA000PO",
+        "label": "MSCI Australia NR USD",
+        "count": 1
+      },
+      {
+        "id": "XIUSA000Q6",
+        "label": "MSCI Canada NR USD",
+        "count": 2
+      },
+      {
+        "id": "F00001E01W",
+        "label": "MSCI Canada NR USD",
+        "count": 1
+      },
+      {
+        "id": "FOUSA08MII",
+        "label": "MSCI China A Onshore NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001Q00X",
+        "label": "MSCI China ESG Uni 5% Is Capped NR USD",
+        "count": 1
+      },
+      {
+        "id": "XIUSA04F1J",
+        "label": "MSCI China NR USD",
+        "count": 7
+      },
+      {
+        "id": "F00001ECH9",
+        "label": "MSCI EFM Africa Top 50 Capped TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001OHV3",
+        "label": "MSCI EM Asia",
+        "count": 1
+      },
+      {
+        "id": "F00000NJVH",
+        "label": "MSCI EM Eastern Europe Ex Russia NR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00001TE6W",
+        "label": "MSCI EM EMEA NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000015EHN",
+        "label": "MSCI EM ESG Lds 5% Is Cap NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001DKMQ",
+        "label": "MSCI EM ESG UNIVERSAL SELECT NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001RL24",
+        "label": "MSCI EM ex Controversial Weapons NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000011E8U",
+        "label": "MSCI EM IMI ESG Screened NR USD",
+        "count": 2
+      },
+      {
+        "id": "FOUSA07BM3",
+        "label": "MSCI EM Islamic NR USD",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06KQ2",
+        "label": "MSCI EM Latin America 10-40 NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001TE64",
+        "label": "MSCI EM Latin America NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001PTVE",
+        "label": "MSCI EM Low Carbon SRI Leaders",
+        "count": 1
+      },
+      {
+        "id": "F00000N7AS",
+        "label": "MSCI EM Minimum Vol (USD) NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000011I64",
+        "label": "MSCI EM SELECT VALUE FACTOR FOCUS NR USD",
+        "count": 1
+      },
+      {
+        "id": "FOUSA07GHE",
+        "label": "MSCI EM Small NR USD",
+        "count": 2
+      },
+      {
+        "id": "F00001EZY7",
+        "label": "MSCI EM SRI LC Sele 5% Issuer Cap NR",
+        "count": 2
+      },
+      {
+        "id": "F000014M50",
+        "label": "MSCI EM SRI Slct Reduced FsslFuel NR USD",
+        "count": 2
+      },
+      {
+        "id": "F00001LVZM",
+        "label": "MSCI EM SRI S-S 5% Cap NR USD",
+        "count": 3
+      },
+      {
+        "id": "F00000TGTT",
+        "label": "MSCI EMU",
+        "count": 1
+      },
+      {
+        "id": "F00001T3X7",
+        "label": "MSCI EMU ESG Enhanced Focus NR EUR",
+        "count": 2
+      },
+      {
+        "id": "F000011E8P",
+        "label": "MSCI EMU ESG Screened NR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00001B368",
+        "label": "MSCI EMU ex Controversial Weapons NR LCL",
+        "count": 1
+      },
+      {
+        "id": "F00000W1G3",
+        "label": "MSCI EMU High Div Yld NR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA08RKS",
+        "label": "MSCI EMU Large NR LCL",
+        "count": 1
+      },
+      {
+        "id": "F00001PTVF",
+        "label": "MSCI EMU Low Carbon SRI Leaders NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000S3FD",
+        "label": "MSCI EMU Mid NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001DDWA",
+        "label": "MSCI EMU Minimum Volatility(EUR) NR LCL",
+        "count": 1
+      },
+      {
+        "id": "F00001Q00W",
+        "label": "MSCI EMU Prime Value NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000VT75",
+        "label": "MSCI EMU SDyn 50% RskWgh 100% Hdg NR CHF",
+        "count": 1
+      },
+      {
+        "id": "F00001EZTX",
+        "label": "MSCI EMU Select Factor Mix NR",
+        "count": 1
+      },
+      {
+        "id": "F00001JNGH",
+        "label": "MSCI EMU Small Cap NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001DKMK",
+        "label": "MSCI EMU SRI Filtered ex Fossil Fuels",
+        "count": 1
+      },
+      {
+        "id": "F00001LVZN",
+        "label": "MSCI EMU SRI S-S 5% Cap NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000NZ2A",
+        "label": "MSCI EMU Value NR EUR",
+        "count": 3
+      },
+      {
+        "id": "F00001TAMQ",
+        "label": "MSCI Europe Climate Chg ESG Select EUR",
+        "count": 1
+      },
+      {
+        "id": "F0000164EU",
+        "label": "MSCI Europe Com Services 35/20 Cap NR",
+        "count": 1
+      },
+      {
+        "id": "F00001632S",
+        "label": "MSCI Europe/Cons Discr 20/35 NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F000016326",
+        "label": "MSCI Europe/Cons Staples 20/35 NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F0000164ET",
+        "label": "MSCI Europe Consumer Disc 35/20 Cap NR",
+        "count": 1
+      },
+      {
+        "id": "F0000164ES",
+        "label": "MSCI Europe Consumer Stap 35/20 Cap NR",
+        "count": 1
+      },
+      {
+        "id": "F00001SY2G",
+        "label": "MSCI Europe Energy 20/35 NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000X0J8",
+        "label": "MSCI Europe Energy 35/20 Capped NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000WMG2",
+        "label": "MSCI Europe Enhanced Value NR EUR",
+        "count": 3
+      },
+      {
+        "id": "F00001T3X9",
+        "label": "MSCI Europe ESG Enhanced Focus NR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00001LFUJ",
+        "label": "MSCI Europe ESG Screened NR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00001PW1Z",
+        "label": "MSCI Europe ESG Uni Slct Biz Scr",
+        "count": 1
+      },
+      {
+        "id": "F00001QKHW",
+        "label": "MSCI Europe ex Contrvrsl Weapons NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001N48F",
+        "label": "MSCI Europe Ex EMU NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000MMTW",
+        "label": "MSCI Europe Ex UK NR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00001C9UX",
+        "label": "MSCI Europe/Financials 20/35 NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F0000164ER",
+        "label": "MSCI Europe Financials 35/20 Capped NR",
+        "count": 1
+      },
+      {
+        "id": "F00001632P",
+        "label": "MSCI Europe/Health Care 20/35 NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F0000164EQ",
+        "label": "MSCI Europe Health Care 35/20 Capped NR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06OYL",
+        "label": "MSCI Europe High Div Yld NR USD",
+        "count": 1
+      },
+      {
+        "id": "F0000164EN",
+        "label": "MSCI Europe Industrials 35/20 Capped NR",
+        "count": 1
+      },
+      {
+        "id": "F00001C9VY",
+        "label": "MSCI Europe Infrastructure 20/35 NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F0000164DJ",
+        "label": "MSCI Europe Materials 35/20 Capped NR",
+        "count": 1
+      },
+      {
+        "id": "F00001DDWE",
+        "label": "MSCI Europe Mid Cap NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000WMG1",
+        "label": "MSCI Europe Mid Equal Weighted NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000WMG4",
+        "label": "MSCI Europe Momentum NR EUR",
+        "count": 3
+      },
+      {
+        "id": "F00000XHZW",
+        "label": "MSCI Europe Quality NR EUR",
+        "count": 1
+      },
+      {
+        "id": "XIUSA04FB9",
+        "label": "MSCI Europe Small Cap NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000V276",
+        "label": "MSCI Europe SmallCap Value Weight NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F0000164DI",
+        "label": "MSCI Europe Technology 35/20 Capped NR",
+        "count": 1
+      },
+      {
+        "id": "F0000164DE",
+        "label": "MSCI Europe Utilities 35/20 Capped NR",
+        "count": 1
+      },
+      {
+        "id": "F000010RKE",
+        "label": "MSCI Europe Value Exposure Select NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001PW1W",
+        "label": "MSCI Eur Slt Cath Prcp ESG Leaders 10/40",
+        "count": 1
+      },
+      {
+        "id": "F00001LVZO",
+        "label": "MSCI EU SC SRI S-Series 5% Cap NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000NEZW",
+        "label": "MSCI France NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000WMG0",
+        "label": "MSCI GCC Countries ex Sel Sec NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000011XFK",
+        "label": "MSCI Greece IMI + Coca-Cola 20-35 NR EUR",
+        "count": 1
+      },
+      {
+        "id": "XIUSA04FFD",
+        "label": "MSCI Indonesia NR USD",
+        "count": 3
+      },
+      {
+        "id": "F00000NVML",
+        "label": "MSCI Japan 100% Hdg NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001T3XC",
+        "label": "MSCI Japan ESG Enhanced Focus NR USD",
+        "count": 3
+      },
+      {
+        "id": "F000011E8T",
+        "label": "MSCI Japan ESG Screened NR USD",
+        "count": 2
+      },
+      {
+        "id": "F00001PTVV",
+        "label": "MSCI Japan Low Carbon SRI Leader",
+        "count": 1
+      },
+      {
+        "id": "XIUSA04FFU",
+        "label": "MSCI Japan Small Cap NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000014T3N",
+        "label": "MSCI Korea 20/35 NR USD",
+        "count": 3
+      },
+      {
+        "id": "F000014YIR",
+        "label": "MSCI Korea Capped NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001EVFG",
+        "label": "MSCI Korea NR USD",
+        "count": 1
+      },
+      {
+        "id": "XIUSA04FG7",
+        "label": "MSCI Malaysia NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000NVMN",
+        "label": "MSCI Mexico Capped NR USD",
+        "count": 1
+      },
+      {
+        "id": "XIUSA04FG9",
+        "label": "MSCI Mexico NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001SFRP",
+        "label": "MSCI NA ex Controversial Weapons NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000POKG",
+        "label": "MSCI North America HDY NR USD",
+        "count": 1
+      },
+      {
+        "id": "XIUSA000Q1",
+        "label": "MSCI North America NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001DMRL",
+        "label": "MSCI Pacific ex JP ex Cntrvsl Wpn NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001EZYA",
+        "label": "MSCI Pacific SRI LC Sele 5% Iss Cap NR",
+        "count": 2
+      },
+      {
+        "id": "FOUSA06ZAW",
+        "label": "MSCI Pakistan IMI NR USD",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06ZBE",
+        "label": "MSCI Philippines IMI NR USD",
+        "count": 1
+      },
+      {
+        "id": "XIUSA04FIA",
+        "label": "MSCI Poland NR USD",
+        "count": 1
+      },
+      {
+        "id": "XIUSA000PF",
+        "label": "MSCI Russia Adr/Gdr NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000011HSP",
+        "label": "MSCI Saudi Arabia 20/35 Capped NR USD",
+        "count": 2
+      },
+      {
+        "id": "FOUSA06ZCL",
+        "label": "MSCI Singapore IMI NR USD",
+        "count": 1
+      },
+      {
+        "id": "F0000159G7",
+        "label": "MSCI South Africa 20/35 USD",
+        "count": 1
+      },
+      {
+        "id": "F00001CYPA",
+        "label": "MSCI Taiwan 20/35 NR USD",
+        "count": 2
+      },
+      {
+        "id": "F000013TET",
+        "label": "MSCI Taiwan Capped NR USD",
+        "count": 1
+      },
+      {
+        "id": "XIUSA04FJS",
+        "label": "MSCI Thailand NR USD",
+        "count": 1
+      },
+      {
+        "id": "XIUSA04FK9",
+        "label": "MSCI Turkey NR USD",
+        "count": 2
+      },
+      {
+        "id": "F000016JO7",
+        "label": "MSCI UK IMI LC SRI Leaders Select NR GBP",
+        "count": 1
+      },
+      {
+        "id": "F00000XAB8",
+        "label": "MSCI UK IMI Liquid Real Estate NR GBP",
+        "count": 1
+      },
+      {
+        "id": "F00000WBX1",
+        "label": "MSCI UK Small Cap NR GBP",
+        "count": 1
+      },
+      {
+        "id": "F00001TAMY",
+        "label": "MSCI USA Climate Change ESG Select EUR",
+        "count": 1
+      },
+      {
+        "id": "F000016EQK",
+        "label": "MSCI USA Comm Ser 20/35 Custom USD",
+        "count": 1
+      },
+      {
+        "id": "F000016OM7",
+        "label": "MSCI USA/Energy NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001TC1U",
+        "label": "MSCI USA ESG Screened NR USD",
+        "count": 3
+      },
+      {
+        "id": "FOUSA079LV",
+        "label": "MSCI USA/Industrials NR USD",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06ZFI",
+        "label": "MSCI USA Islamic NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001S6WU",
+        "label": "MSCI USA Large PR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000UVNI",
+        "label": "MSCI USA Leveraged 2x Daily NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000Y0O8",
+        "label": "MSCI USA Mid Cap Equal Weighted NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000HGD4",
+        "label": "MSCI USA Mid PR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001QHFZ",
+        "label": "MSCI USA Mini Vol ESG Red Car Tar TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001Q00Z",
+        "label": "MSCI USA Prime Value 100% Hdg NR CHF",
+        "count": 3
+      },
+      {
+        "id": "F00000W8G3",
+        "label": "MSCI USA SDyn 50% RskWgh NR USD",
+        "count": 2
+      },
+      {
+        "id": "F00001T3XG",
+        "label": "MSCI USA Small Cap NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000V26X",
+        "label": "MSCI USA Small Cap Value Weighted NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001EZY8",
+        "label": "MSCI USA SRI LC Select 5% Issuer Cap NR",
+        "count": 3
+      },
+      {
+        "id": "F000014M4R",
+        "label": "MSCI USA SRI Slct Rdc FsslFuel NR USD",
+        "count": 5
+      },
+      {
+        "id": "F000010RKF",
+        "label": "MSCI USA Value Exposure Select NR USD",
+        "count": 1
+      },
+      {
+        "id": "XIUSA04FKR",
+        "label": "MSCI USA Value NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000MW7J",
+        "label": "MSCI World 100% Hdg NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001TAN0",
+        "label": "MSCI World Climate Change ESG Select EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001C9M3",
+        "label": "MSCI World Comm Service 20/35 Custom",
+        "count": 1
+      },
+      {
+        "id": "F00001INCV",
+        "label": "MSCI World/Consumer Disc GR USD",
+        "count": 1
+      },
+      {
+        "id": "XIUSA04FL5",
+        "label": "MSCI World/Consumer Disc NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001INCU",
+        "label": "MSCI World/Consumer Staples GR USD",
+        "count": 1
+      },
+      {
+        "id": "XIUSA04FL7",
+        "label": "MSCI World/Consumer Staples NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001PTIW",
+        "label": "MSCI World Diversified Multi-Fct NR USD",
+        "count": 3
+      },
+      {
+        "id": "XIUSA04FLF",
+        "label": "MSCI World/Energy GR USD",
+        "count": 2
+      },
+      {
+        "id": "F00000WMFX",
+        "label": "MSCI World Enhanced Value NR USD",
+        "count": 3
+      },
+      {
+        "id": "F000011E8S",
+        "label": "MSCI World ESG Screened NR USD",
+        "count": 3
+      },
+      {
+        "id": "F00001PW26",
+        "label": "MSCI World ESG Uni Slt Biz Screen",
+        "count": 1
+      },
+      {
+        "id": "F00000U5K4",
+        "label": "MSCI World Ex EMU NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000O7YL",
+        "label": "MSCI World Ex Europe NR EUR",
+        "count": 1
+      },
+      {
+        "id": "XIUSA04FLH",
+        "label": "MSCI World/Financials NR USD",
+        "count": 3
+      },
+      {
+        "id": "XIUSA04FLV",
+        "label": "MSCI World/Industrials NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001F0QR",
+        "label": "MSCI World/Information Tech GR USD",
+        "count": 1
+      },
+      {
+        "id": "F000016P91",
+        "label": "MSCI World/Information Tech NR USD",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06ZGK",
+        "label": "MSCI World Islamic NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001PTVX",
+        "label": "MSCI World Low Carbon SRI Leader",
+        "count": 3
+      },
+      {
+        "id": "XIUSA04FM5",
+        "label": "MSCI World/Materials NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000WMFY",
+        "label": "MSCI World Mid Equal Weighted NR USD",
+        "count": 1
+      },
+      {
+        "id": "FOUSA07A5A",
+        "label": "MSCI World Minimum Vol (USD) NR USD",
+        "count": 6
+      },
+      {
+        "id": "F00000U218",
+        "label": "MSCI World Momentum NR USD",
+        "count": 2
+      },
+      {
+        "id": "F00000WMFW",
+        "label": "MSCI World Sector Neutral Quality NR USD",
+        "count": 2
+      },
+      {
+        "id": "F00001EQZF",
+        "label": "MSCI World SRI LC Select 5% Issuer Cap",
+        "count": 7
+      },
+      {
+        "id": "F000014UZJ",
+        "label": "MSCI World SRI S-S 5% Cap NR USD",
+        "count": 3
+      },
+      {
+        "id": "XIUSA04FML",
+        "label": "MSCI World/Utilities NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000UZDX",
+        "label": "MS Long Gold British Pound Hdg TR GBP",
+        "count": 1
+      },
+      {
+        "id": "F00000VFIU",
+        "label": "MTS Mid Price HR Macro-Weight 1-3 TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F000011H4F",
+        "label": "MTS Mid Price HR Macro-Weight 3-5 TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F0000163SD",
+        "label": "MVIS CryptoCompare Bitcoin VWAP C TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001E8PW",
+        "label": "MVIS Gbl Vid Gaming and eSports TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000NAZ3",
+        "label": "MVIS Global Junior Gold Miners NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000015LED",
+        "label": "MVIS US Listed Semicond 10%Capped TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000V0TY",
+        "label": "N/A",
+        "count": 8
+      },
+      {
+        "id": "F000013C0A",
+        "label": "NASDAQ AlphaDEX(R) Germany NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000TOE4",
+        "label": "NASDAQ AlphaDEX(R) Small Cap Core NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000016XIQ",
+        "label": "NASDAQ Cmmdty Crude Oil ER USD",
+        "count": 1
+      },
+      {
+        "id": "F000016XIM",
+        "label": "NASDAQ Cmmdty Palladium ER USD",
+        "count": 1
+      },
+      {
+        "id": "F000016XIV",
+        "label": "NASDAQ Commodity Brent Crude ER",
+        "count": 1
+      },
+      {
+        "id": "F000011N60",
+        "label": "NASDAQ CTA Artificial Intlgc NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000UNDG",
+        "label": "NASDAQ Global BuyBack Achivers NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000014AWU",
+        "label": "NASDAQ OMX Stockholm Benchmark Cp NR SEK",
+        "count": 1
+      },
+      {
+        "id": "F00000UMIH",
+        "label": "NASDAQ US-100 Leveraged Notional NR",
+        "count": 1
+      },
+      {
+        "id": "F00001QAX1",
+        "label": "Nasdaq Yewno Glb AI and Big Data NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001GK12",
+        "label": "Nasdaq Yewno Glb Future Mobility NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000SK5X",
+        "label": "Nikkei 225 Average NR JPY",
+        "count": 1
+      },
+      {
+        "id": "F00000WCDL",
+        "label": "NYSE Arca Gold Bugs NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001QO24",
+        "label": "NYSE Arca Gold Miners NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001SKXK",
+        "label": "Optimised Roll Commodity TR USD",
+        "count": 5
+      },
+      {
+        "id": "F00000YJZW",
+        "label": "Palladium TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000UWFN",
+        "label": "Physical Gold",
+        "count": 1
+      },
+      {
+        "id": "F0000105F5",
+        "label": "physical Palladium",
+        "count": 1
+      },
+      {
+        "id": "F0000105FL",
+        "label": "physical Silver",
+        "count": 2
+      },
+      {
+        "id": "F00000TVG0",
+        "label": "PIMCO EM Advantage Local Curr TR USD",
+        "count": 2
+      },
+      {
+        "id": "F000010DKQ",
+        "label": "Portfolio Income Strategy NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001QJ69",
+        "label": "Refinitiv Gbl L/M Di&In ex CW EW NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000YX9X",
+        "label": "RICI Enhanced Aluminium TR USD",
+        "count": 2
+      },
+      {
+        "id": "F0000144PK",
+        "label": "RICI Enhanced Aluminum ER",
+        "count": 1
+      },
+      {
+        "id": "F00000TYE9",
+        "label": "RICI Enhanced Brent Crude Oil TR USD",
+        "count": 2
+      },
+      {
+        "id": "F00000YVUJ",
+        "label": "RICI® Enhanced Brent Crude Oil TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000YX9Y",
+        "label": "RICI Enhanced Copper TR USD",
+        "count": 3
+      },
+      {
+        "id": "F000013WZ6",
+        "label": "RICI Enhanced Energy (ER) Index",
+        "count": 1
+      },
+      {
+        "id": "F00000YW57",
+        "label": "RICI Enhanced Energy Index TR USD",
+        "count": 2
+      },
+      {
+        "id": "F0000144PH",
+        "label": "RICI Enhanced Gas Oil ER",
+        "count": 1
+      },
+      {
+        "id": "F00000YW54",
+        "label": "RICI Enhanced Gas Oil TR Index TR USD",
+        "count": 2
+      },
+      {
+        "id": "F0000144PI",
+        "label": "RICI Enhanced Gasoline ER",
+        "count": 1
+      },
+      {
+        "id": "F0000144PJ",
+        "label": "RICI Enhanced Heating Oil ER",
+        "count": 1
+      },
+      {
+        "id": "F00000YW56",
+        "label": "RICI Enhanced Heating Oil Index TR USD",
+        "count": 3
+      },
+      {
+        "id": "F000013ZZ6",
+        "label": "RICI® Enhanced Industrial Metals ER",
+        "count": 1
+      },
+      {
+        "id": "F00000TYEC",
+        "label": "RICI Enhanced Industrial Metals TR USD",
+        "count": 2
+      },
+      {
+        "id": "F0000144PN",
+        "label": "RICI Enhanced Lead ER",
+        "count": 1
+      },
+      {
+        "id": "F00000YXA1",
+        "label": "RICI Enhanced Lead TR USD",
+        "count": 3
+      },
+      {
+        "id": "F0000144PO",
+        "label": "RICI Enhanced Metals ER",
+        "count": 1
+      },
+      {
+        "id": "F00000YW58",
+        "label": "RICI Enhanced Metals Index TR USD",
+        "count": 2
+      },
+      {
+        "id": "F00000TYED",
+        "label": "RICI Enhanced Natural Gas TR USD",
+        "count": 3
+      },
+      {
+        "id": "F00000YXA0",
+        "label": "RICI Enhanced Nickel TR USD",
+        "count": 3
+      },
+      {
+        "id": "F00000YY73",
+        "label": "RICI Enhanced RBOB Gasoline TR USD",
+        "count": 2
+      },
+      {
+        "id": "F000013ZZ8",
+        "label": "RICI® EnhancedSM Brent Crude Oil ER",
+        "count": 1
+      },
+      {
+        "id": "F000013ZZ3",
+        "label": "RICI® EnhancedSM Copper ER Index",
+        "count": 2
+      },
+      {
+        "id": "F00000TYEG",
+        "label": "RICI EnhancedSM Energy TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000YJZV",
+        "label": "RICI EnhancedSM INDUSTRIAL METALS TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000YJZS",
+        "label": "RICI EnhancedSM METALS INDEX TR USD",
+        "count": 1
+      },
+      {
+        "id": "F000013ZYZ",
+        "label": "RICI® EnhancedSM Natural Gas ER Index",
+        "count": 1
+      },
+      {
+        "id": "F000013ZYY",
+        "label": "RICI® EnhancedSM WTI Crude Oil ER Index",
+        "count": 1
+      },
+      {
+        "id": "F0000144PM",
+        "label": "RICI Enhanced Tin ER",
+        "count": 1
+      },
+      {
+        "id": "F00000YXA2",
+        "label": "RICI Enhanced Tin TR USD",
+        "count": 2
+      },
+      {
+        "id": "F00000TYEE",
+        "label": "RICI Enhanced WTI Crude Oil TR USD",
+        "count": 2
+      },
+      {
+        "id": "F0000144PL",
+        "label": "RICI Enhanced Zinc ER",
+        "count": 1
+      },
+      {
+        "id": "F00000YXA3",
+        "label": "RICI Enhanced Zinc TR USD",
+        "count": 3
+      },
+      {
+        "id": "F00001DDTB",
+        "label": "ROBO Gbl Artificial Intelligence USD",
+        "count": 1
+      },
+      {
+        "id": "F000013UUG",
+        "label": "ROBO Gbl Healthcare Tech & Innov TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000UWAV",
+        "label": "ROBO Gbl Robotic&Automat TR USD",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06P23",
+        "label": "Rogers International Commodity TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001MS2L",
+        "label": "Russell 2000 NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000UZKS",
+        "label": "SGI Pan Africa NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001C9EA",
+        "label": "Shiller Barclays CAPE US Sec Value NR",
+        "count": 2
+      },
+      {
+        "id": "F00000ZAJ5",
+        "label": "Shiller Barclays CAPE US Sec Value NRUSD",
+        "count": 5
+      },
+      {
+        "id": "F00000UZI9",
+        "label": "ShortDAX X3 TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F000016P9A",
+        "label": "Short Markit iBoxx Eurozone TR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06STL",
+        "label": "SIX SLI Swiss Leaders PR CHF",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06STM",
+        "label": "SIX SLI Swiss Leaders TR CHF",
+        "count": 1
+      },
+      {
+        "id": "F0000101G5",
+        "label": "Solactive Battery Value-Chain NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000013YYK",
+        "label": "Solactive Bund Daily -2x Inverse GR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001ATN8",
+        "label": "Solactive Clean Energy USD",
+        "count": 1
+      },
+      {
+        "id": "F000013UUF",
+        "label": "Solactive Clean Water NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000011HS4",
+        "label": "Solactive Core DM Europe exUK L&M NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F000011HSJ",
+        "label": "Solactive core DM L&M NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000011HSH",
+        "label": "Solactive Core DM Pacf xJAP L&M NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000011HSG",
+        "label": "Solactive Core Japan L&M NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000011HSF",
+        "label": "Solactive Core US L&M NR USD",
+        "count": 1
+      },
+      {
+        "id": "F0000101EU",
+        "label": "Solactive eCommerce Logistics NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000ZPEK",
+        "label": "Solactive Equileap Gbl Gender Eqa NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000015HXA",
+        "label": "Solactive Euro 50 NR EUR",
+        "count": 4
+      },
+      {
+        "id": "F00001S4CM",
+        "label": "Solactive Euro Corporates 0-3 Y Liq EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001437I",
+        "label": "Solactive Euro Overnight Return TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000ZGSQ",
+        "label": "Solactive European Equity TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001S4CF",
+        "label": "Solactive Euro Sustainability PR EUR",
+        "count": 1
+      },
+      {
+        "id": "F000015W2U",
+        "label": "Solactive Eurozone Gov Bond 0-1Y TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F000013COY",
+        "label": "Solactive Eurozone Gov Bond TR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00001S4CI",
+        "label": "Solactive Eurozone Rendite + 1-10 Bd",
+        "count": 1
+      },
+      {
+        "id": "F00000UZIV",
+        "label": "Solactive Gbl Pure Gold Miners NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000013CR0",
+        "label": "Solactive GBS DM Large & Mid USD NR USD",
+        "count": 2
+      },
+      {
+        "id": "F000013CR2",
+        "label": "Solactive GBS Japan Large & Mid NR JPY",
+        "count": 2
+      },
+      {
+        "id": "F000016JO2",
+        "label": "Solactive Gl Ma DBB USD 25%IC TR EUR",
+        "count": 7
+      },
+      {
+        "id": "F000016JOG",
+        "label": "Solactive Global Dev Gov Bond TR EUR",
+        "count": 3
+      },
+      {
+        "id": "F000016EDA",
+        "label": "Solactive Hydrogen Economy NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000011AIL",
+        "label": "Solactive Innovative Technologies TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001E2HX",
+        "label": "Solactive Mittelst&Mid Deutsch NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F0000101GA",
+        "label": "Solactive Pharma Breakthrough V NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000014YRQ",
+        "label": "Solactive Smart City Index NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000ZBCI",
+        "label": "Solactive Spain 40 NR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00000ZGSI",
+        "label": "Solactive Sustainable World TR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06RX3",
+        "label": "Solactive US Treasury 0-1 Year TR USD",
+        "count": 3
+      },
+      {
+        "id": "F00001S4CJ",
+        "label": "Solactive US Treasury 7-10 Year Q S USD",
+        "count": 1
+      },
+      {
+        "id": "F000013CR6",
+        "label": "Solactive US Treasury Bond TR USD",
+        "count": 2
+      },
+      {
+        "id": "F000014062",
+        "label": "Solactive US Tr YC Stp 2-5vs10-30 USD",
+        "count": 1
+      },
+      {
+        "id": "F00000MUD3",
+        "label": "S&P 500 2x Inverse Daily TR USD",
+        "count": 1
+      },
+      {
+        "id": "F000016IXI",
+        "label": "S&P 500 2x Leveraged Daily NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001158R",
+        "label": "S&P 500 Cap 35/20 Comm Serv NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001F0QF",
+        "label": "S&P 500 Capped 35/20 Cons Discre NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001F0QG",
+        "label": "S&P 500 Capped 35/20 Energy NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001F0QH",
+        "label": "S&P 500 Capped 35/20 Financials NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001F0QM",
+        "label": "S&P 500 Capped 35/20 Industrials NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001PY2S",
+        "label": "S&P 500 Capped 35/20 Info Tech NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001F0QL",
+        "label": "S&P 500 Capped 35/20 Materials NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001F0QN",
+        "label": "S&P 500 Capped 35/20 Utilities NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001FWJ8",
+        "label": "S&P 500 Consumer Staples C 35/20 NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000013V4Y",
+        "label": "S&P 500 ESG Exclusions II",
+        "count": 1
+      },
+      {
+        "id": "F00001Q0XD",
+        "label": "S&P 500 ESG NR USD",
+        "count": 8
+      },
+      {
+        "id": "F000016IXJ",
+        "label": "S&P 500 Inverse Daily GR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000OTPV",
+        "label": "S&P 500 Low Volatility NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000X4JS",
+        "label": "S&P 500 Minimum Volatility NR USD",
+        "count": 3
+      },
+      {
+        "id": "F00000NBJB",
+        "label": "S&P 500 NR Hdg EUR",
+        "count": 1
+      },
+      {
+        "id": "F000015DM6",
+        "label": "S&P 500 Paris-Aligned Climate TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000Z0JA",
+        "label": "S&P 500 Qua, Val & Mom Multi-Fct NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000WCAH",
+        "label": "S&P 500 VIX Futures Enhanced Roll NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000WC96",
+        "label": "S&P/ASX 200 NR AUD",
+        "count": 1
+      },
+      {
+        "id": "XIUSA04GAS",
+        "label": "S&P/ASX 200 TR AUD",
+        "count": 1
+      },
+      {
+        "id": "F00000T4LT",
+        "label": "S&P Cmmdity Prdcers Agrbusz Index NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000UVPR",
+        "label": "S&P Commodity Producers Gold NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000UVOD",
+        "label": "S&P Comm Prod Oil &Gas Exp & Prod NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000010YO3",
+        "label": "S&P Com Srvs Sel Sec Dly Cp 25/20 NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000013DZ7",
+        "label": "S&P Cons Disc Slct Daily Cap25/20 NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000013DZ8",
+        "label": "S&P Cons Staples Slct Cap 25/20 NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000014SS0",
+        "label": "S&P Emerg Mkts High Yld Divi Arst NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000013DZ9",
+        "label": "S&P Energy Slct Daily Capp 25/20 NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000011DMX",
+        "label": "S&P Europe Ex-U.K. LargeMidCap EUR",
+        "count": 1
+      },
+      {
+        "id": "F000013DZE",
+        "label": "S&P Financials Slct Dly Cap 25/20 NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000014SRW",
+        "label": "S&P Glb Divi Arstcrts Qlt Income NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000JYPX",
+        "label": "S&P Global Infrastructure NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000013DZF",
+        "label": "S&P Health Care Slct Dly Cap25/20 NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000O2SX",
+        "label": "S&P High Yield Dividend Aristcrts NR USD",
+        "count": 2
+      },
+      {
+        "id": "F000013DZG",
+        "label": "S&P Industrials Slct Dly Cap25/20 NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000013DZH",
+        "label": "S&P Materials Slct Dly Cap 25/20 NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000WQ2K",
+        "label": "Spot Gold LBMA TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000WQ2G",
+        "label": "Spot Palladium LPPM TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000WQ2H",
+        "label": "Spot Platinum LPPM TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000WQ2I",
+        "label": "Spot Precious Metal LBMA and LPPM TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000Q3Z6",
+        "label": "S&P Pan Asia Dividend Aristocrats NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000WEO3",
+        "label": "S&P Select Frontier NR USD",
+        "count": 1
+      },
+      {
+        "id": "F000013DZI",
+        "label": "S&P Technology Slct Dly Cap25/20 NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000O2SY",
+        "label": "S&P UK High Yield Dividend Arstcr TR USD",
+        "count": 1
+      },
+      {
+        "id": "F000013DZN",
+        "label": "S&P Utilities Slct Daily Cap25/20 NR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001D9U9",
+        "label": "STOXX AI Glb Artfc Intlgc ADTV5 NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F000010QQD",
+        "label": "Stoxx China A 900 Min Var Uncons AM",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06CWI",
+        "label": "STOXX Europe 50 NR EUR",
+        "count": 4
+      },
+      {
+        "id": "F00001F0X5",
+        "label": "STOXX Europe 600",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06CWK",
+        "label": "STOXX Europe 600 Banks NR EUR",
+        "count": 3
+      },
+      {
+        "id": "F00001CQ69",
+        "label": "STOXX Europe 600 Banks NR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06F5G",
+        "label": "STOXX Europe 600 Basic Recources NR EUR",
+        "count": 3
+      },
+      {
+        "id": "F00001CQA6",
+        "label": "STOXX Europe 600 Basic Recources NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001RXQC",
+        "label": "STOXX Europe 600 Chemicals NR EUR",
+        "count": 2
+      },
+      {
+        "id": "FOUSA06CWO",
+        "label": "STOXX Europe 600 Chemicals NR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06F5O",
+        "label": "STOXX Europe 600 Const&Materials NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001F4ZX",
+        "label": "STOXX Europe 600 Equal Weight NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001D49B",
+        "label": "STOXX Europe 600 ESG-X",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06CWS",
+        "label": "STOXX Europe 600 Financial Svc NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001LUOL",
+        "label": "STOXX Europe 600 Food&Beverage NR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00001CQ9T",
+        "label": "STOXX Europe 600 Food&Beverage NR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06CWW",
+        "label": "STOXX Europe 600 Food&Beverage NR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06CX2",
+        "label": "STOXX Europe 600 Health Care NR EUR",
+        "count": 3
+      },
+      {
+        "id": "F00001CQ6A",
+        "label": "STOXX Europe 600 Health Care NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001LUOI",
+        "label": "STOXX Europe 600 Indl Gd&Svcs NR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00001CQ9Y",
+        "label": "STOXX Europe 600 Indl Gd&Svcs NR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06CX4",
+        "label": "STOXX Europe 600 Indl Gd&Svcs NR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06CX8",
+        "label": "STOXX Europe 600 Insurance NR EUR",
+        "count": 3
+      },
+      {
+        "id": "FOUSA06CXA",
+        "label": "STOXX Europe 600 Media NR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA05ZXC",
+        "label": "STOXX Europe 600 NR EUR",
+        "count": 3
+      },
+      {
+        "id": "F00001RVPY",
+        "label": "STOXX Europe 600 Oil&Gas NR EUR",
+        "count": 2
+      },
+      {
+        "id": "FOUSA06DEV",
+        "label": "STOXX Europe 600 Oil&Gas NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000NBNP",
+        "label": "STOXX Europe 600 Optm Autos&Parts NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000NBNO",
+        "label": "STOXX Europe 600 Optm Banks NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000NBNQ",
+        "label": "STOXX Europe 600 Optm Basic Res NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000NBNR",
+        "label": "STOXX Europe 600 Optm Chemicals NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000NBNS",
+        "label": "STOXX Europe 600 Optm Cons&Matls NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000NBNT",
+        "label": "STOXX Europe 600 Optm Fincl Svcs NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000NBNV",
+        "label": "STOXX Europe 600 Optm Food&Bev NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000NBNU",
+        "label": "STOXX Europe 600 Optm Health Care NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000NBNW",
+        "label": "STOXX Europe 600 Optm Ind Gd&Sv NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000NBNX",
+        "label": "STOXX Europe 600 Optm Insurance NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000NBNY",
+        "label": "STOXX Europe 600 Optm Media NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000NBNZ",
+        "label": "STOXX Europe 600 Optm Oil & Gas NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000NBO0",
+        "label": "STOXX Europe 600 Optm Per&Hus Gd NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000NBO1",
+        "label": "STOXX Europe 600 Optm Retail NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000NBO2",
+        "label": "STOXX Europe 600 Optm Technology NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000NBO3",
+        "label": "STOXX Europe 600 Optm Tele NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000NBO5",
+        "label": "STOXX Europe 600 Optm Trav&Leis NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000NBO4",
+        "label": "STOXX Europe 600 Optm Utilities NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F000015JNQ",
+        "label": "STOXX Europe 600 Par-A Bench TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000LZQB",
+        "label": "STOXX Europe 600 Pers&Hld Gds NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000JSHY",
+        "label": "STOXX Europe 600 Real Estate NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00000LZQE",
+        "label": "STOXX Europe 600 Retail NR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06CXC",
+        "label": "STOXX Europe 600 Technology NR EUR",
+        "count": 4
+      },
+      {
+        "id": "F00001CNWS",
+        "label": "STOXX Europe 600 Technology NR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06CXE",
+        "label": "STOXX Europe 600 Telecom NR EUR",
+        "count": 3
+      },
+      {
+        "id": "F00001CPW1",
+        "label": "STOXX Europe 600 Telecom NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001LUOK",
+        "label": "STOXX Europe 600 Travel&Leisure NR EUR",
+        "count": 2
+      },
+      {
+        "id": "FOUSA06CXG",
+        "label": "STOXX Europe 600 Utilities NR EUR",
+        "count": 3
+      },
+      {
+        "id": "F00001CQ6B",
+        "label": "STOXX Europe 600 Utilities NR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06CXI",
+        "label": "STOXX Europe Large 200 NR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA06CXK",
+        "label": "STOXX Europe Mid 200 NR EUR",
+        "count": 1
+      },
+      {
+        "id": "FOUSA05MUT",
+        "label": "STOXX Europe Select Dividend 30 NR EUR",
+        "count": 2
+      },
+      {
+        "id": "FOUSA06CXM",
+        "label": "STOXX Europe Small 200 NR EUR",
+        "count": 1
+      },
+      {
+        "id": "F00001S6WS",
+        "label": "STOXX Europe Strong Growth 20 PR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00001S6WR",
+        "label": "STOXX Europe Strong Style Com 40 PR EUR",
+        "count": 1
+      },
+      {
+        "id": "F0000139PV",
+        "label": "STOXX Glb Elctrc Vhcl&Drvng Tech",
+        "count": 1
+      },
+      {
+        "id": "F000016OM6",
+        "label": "STOXX Global Ageing Population",
+        "count": 1
+      },
+      {
+        "id": "F00000XPWT",
+        "label": "Stoxx Global Automation&Robotics NR USD",
+        "count": 2
+      },
+      {
+        "id": "F000015CUC",
+        "label": "STOXX Global Breakthrough Healthcare",
+        "count": 1
+      },
+      {
+        "id": "F000016OM4",
+        "label": "STOXX Global Digitalisation",
+        "count": 1
+      },
+      {
+        "id": "F0000114TY",
+        "label": "STOXX Global Digital Security NR USD",
+        "count": 2
+      },
+      {
+        "id": "F000015T9H",
+        "label": "Tematica BITA Digital Inf&Con TR EUR",
+        "count": 1
+      },
+      {
+        "id": "F000014PHJ",
+        "label": "UBS Bbg CMBCOM OpfStgyxPM 2.5 Lvg NR USD",
+        "count": 3
+      },
+      {
+        "id": "F000014W05",
+        "label": "WisdomTree Battery Solutions TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00001OPUE",
+        "label": "WisdomTree EM High Dividend UCITS TR USD",
+        "count": 2
+      },
+      {
+        "id": "F00000WHJK",
+        "label": "WisdomTree Europe Equity Income TR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00000XM5D",
+        "label": "WisdomTree Eurozon Qua Div Growth TR EUR",
+        "count": 2
+      },
+      {
+        "id": "F00000XM5B",
+        "label": "WisdomTree Japan Dividend UCITS TR USD",
+        "count": 6
+      },
+      {
+        "id": "F000016ENS",
+        "label": "WisdomTree Team8 Cybersecurity USD",
+        "count": 1
+      },
+      {
+        "id": "F00000WMI9",
+        "label": "WisdomTree US Equity Income UCITS NR USD",
+        "count": 4
+      },
+      {
+        "id": "F00000MRKO",
+        "label": "WT EM SmallCap Dividend UCITS TR USD",
+        "count": 1
+      },
+      {
+        "id": "F00000SKNW",
+        "label": "WT Europe Equity UCITS TR Hdg USD",
+        "count": 5
+      },
+      {
+        "id": "F00000WTJO",
+        "label": "WT Euro SmallCap Dividend UCITS TR EUR",
+        "count": 2
+      },
+      {
+        "id": "F000015C35",
+        "label": "XBTUSD Cross Rate Currency TR USD",
+        "count": 1
+      }
+    ],
+    "is_active_etf": [
+      {
+        "id": false,
+        "label": false,
+        "count": 4091
+      },
+      {
+        "id": true,
+        "label": true,
+        "count": 445
+      }
+    ],
+    "distribution_interval": [
+      {
+        "id": "semi-annually",
+        "label": "Halbjährlich",
+        "count": 545
+      },
+      {
+        "id": "quarterly",
+        "label": "Vierteljährlich",
+        "count": 469
+      },
+      {
+        "id": "annually",
+        "label": "Jährlich",
+        "count": 306
+      },
+      {
+        "id": "monthly",
+        "label": "Monatlich",
+        "count": 80
+      },
+      {
+        "id": "weekly",
+        "label": "Wöchentlich",
+        "count": 6
+      },
+      {
+        "id": "daily",
+        "label": "Täglich",
+        "count": 1
+      }
+    ],
+    "provider": [
+      {
+        "id": "100",
+        "label": "iShares",
+        "count": 818
+      },
+      {
+        "id": "107",
+        "label": "Amundi",
+        "count": 566
+      },
+      {
+        "id": "115",
+        "label": "Xtrackers",
+        "count": 442
+      },
+      {
+        "id": "102",
+        "label": "UBS",
+        "count": 374
+      },
+      {
+        "id": "117",
+        "label": "BNP Paribas Easy",
+        "count": 275
+      },
+      {
+        "id": "126",
+        "label": "Invesco",
+        "count": 275
+      },
+      {
+        "id": "216",
+        "label": "WisdomTree",
+        "count": 252
+      },
+      {
+        "id": "304",
+        "label": "Leverage Shares",
+        "count": 183
+      },
+      {
+        "id": "177",
+        "label": "JP Morgan",
+        "count": 175
+      },
+      {
+        "id": "112",
+        "label": "SPDR",
+        "count": 158
+      },
+      {
+        "id": "110",
+        "label": "Vanguard",
+        "count": 112
+      },
+      {
+        "id": "141",
+        "label": "HSBC",
+        "count": 96
+      },
+      {
+        "id": "124",
+        "label": "LGIM",
+        "count": 75
+      },
+      {
+        "id": "153",
+        "label": "Fidelity",
+        "count": 58
+      },
+      {
+        "id": "279",
+        "label": "Global X",
+        "count": 57
+      },
+      {
+        "id": "139",
+        "label": "First Trust",
+        "count": 55
+      },
+      {
+        "id": "105",
+        "label": "Deka",
+        "count": 54
+      },
+      {
+        "id": "209",
+        "label": "VanEck",
+        "count": 51
+      },
+      {
+        "id": "155",
+        "label": "Franklin Templeton",
+        "count": 42
+      },
+      {
+        "id": "225",
+        "label": "HANetf",
+        "count": 39
+      },
+      {
+        "id": "147",
+        "label": "Ossiam",
+        "count": 38
+      },
+      {
+        "id": "412",
+        "label": "Janus Henderson",
+        "count": 28
+      },
+      {
+        "id": "273",
+        "label": "21shares",
+        "count": 27
+      },
+      {
+        "id": "309",
+        "label": "Valour",
+        "count": 25
+      },
+      {
+        "id": "137",
+        "label": "Pimco",
+        "count": 24
+      },
+      {
+        "id": "229",
+        "label": "Goldman Sachs",
+        "count": 23
+      },
+      {
+        "id": "302",
+        "label": "GraniteShares",
+        "count": 23
+      },
+      {
+        "id": "284",
+        "label": "CoinShares",
+        "count": 16
+      },
+      {
+        "id": "394",
+        "label": "",
+        "count": 15
+      },
+      {
+        "id": "238",
+        "label": "Bitwise",
+        "count": 14
+      },
+      {
+        "id": "387",
+        "label": "Virtune",
+        "count": 12
+      },
+      {
+        "id": "293",
+        "label": "Robeco",
+        "count": 11
+      },
+      {
+        "id": "233",
+        "label": "ARK Invest",
+        "count": 10
+      },
+      {
+        "id": "346",
+        "label": "SocGen",
+        "count": 10
+      },
+      {
+        "id": "369",
+        "label": "KraneShares",
+        "count": 10
+      },
+      {
+        "id": "377",
+        "label": "Boerse Stuttgart",
+        "count": 5
+      },
+      {
+        "id": "479",
+        "label": "Schroders",
+        "count": 5
+      },
+      {
+        "id": "164",
+        "label": "FundRock",
+        "count": 4
+      },
+      {
+        "id": "283",
+        "label": "Deutsche Digital Assets",
+        "count": 4
+      },
+      {
+        "id": "287",
+        "label": "Swisscanto",
+        "count": 4
+      },
+      {
+        "id": "306",
+        "label": "SEBA Bank",
+        "count": 4
+      },
+      {
+        "id": "359",
+        "label": "Leonteq",
+        "count": 4
+      },
+      {
+        "id": "405",
+        "label": "Fair Oaks",
+        "count": 4
+      },
+      {
+        "id": "411",
+        "label": "Avantis",
+        "count": 4
+      },
+      {
+        "id": "495",
+        "label": "",
+        "count": 4
+      },
+      {
+        "id": "285",
+        "label": "Market Access",
+        "count": 3
+      },
+      {
+        "id": "345",
+        "label": "Axxion",
+        "count": 3
+      },
+      {
+        "id": "349",
+        "label": "abrdn",
+        "count": 3
+      },
+      {
+        "id": "456",
+        "label": "Jupiter AM",
+        "count": 3
+      },
+      {
+        "id": "465",
+        "label": "Nordea",
+        "count": 3
+      },
+      {
+        "id": "227",
+        "label": "Tabula",
+        "count": 2
+      },
+      {
+        "id": "311",
+        "label": "Hashdex",
+        "count": 2
+      },
+      {
+        "id": "353",
+        "label": "Investlinx",
+        "count": 2
+      },
+      {
+        "id": "378",
+        "label": "Melanion",
+        "count": 2
+      },
+      {
+        "id": "379",
+        "label": "CF Crypto",
+        "count": 2
+      },
+      {
+        "id": "395",
+        "label": "ETF Willow",
+        "count": 2
+      },
+      {
+        "id": "457",
+        "label": "iM Global Partner",
+        "count": 2
+      },
+      {
+        "id": "485",
+        "label": "",
+        "count": 2
+      },
+      {
+        "id": "492",
+        "label": "",
+        "count": 2
+      },
+      {
+        "id": "498",
+        "label": "",
+        "count": 2
+      },
+      {
+        "id": "201",
+        "label": "Dt. Börse",
+        "count": 1
+      },
+      {
+        "id": "280",
+        "label": "FlexShares",
+        "count": 1
+      },
+      {
+        "id": "363",
+        "label": "XACT",
+        "count": 1
+      },
+      {
+        "id": "366",
+        "label": "ALPHA ETF",
+        "count": 1
+      },
+      {
+        "id": "416",
+        "label": "CASE Invest",
+        "count": 1
+      },
+      {
+        "id": "455",
+        "label": "Steelcoin",
+        "count": 1
+      },
+      {
+        "id": "458",
+        "label": "Eldridge",
+        "count": 1
+      },
+      {
+        "id": "476",
+        "label": "Palmer Square",
+        "count": 1
+      },
+      {
+        "id": "482",
+        "label": "",
+        "count": 1
+      },
+      {
+        "id": "488",
+        "label": "",
+        "count": 1
+      },
+      {
+        "id": "491",
+        "label": "",
+        "count": 1
+      },
+      {
+        "id": "496",
+        "label": "",
+        "count": 1
+      }
+    ],
+    "bond_eff_duration": [
+      {
+        "id": "bond_eff_duration",
+        "label": "bond_eff_duration",
+        "count": 596,
+        "min": -0.02032,
+        "max": 20.43011
+      }
+    ],
+    "saving_plan": [
+      {
+        "id": "1",
+        "label": 1,
+        "count": 3824
+      },
+      {
+        "id": "0",
+        "label": 0,
+        "count": 712
+      }
+    ],
+    "distribution_month": [
+      {
+        "id": "12",
+        "label": 11,
+        "count": 685
+      },
+      {
+        "id": "6",
+        "label": 5,
+        "count": 513
+      },
+      {
+        "id": "2",
+        "label": 1,
+        "count": 424
+      },
+      {
+        "id": "8",
+        "label": 7,
+        "count": 412
+      },
+      {
+        "id": "9",
+        "label": 8,
+        "count": 384
+      },
+      {
+        "id": "3",
+        "label": 2,
+        "count": 377
+      },
+      {
+        "id": "7",
+        "label": 6,
+        "count": 273
+      },
+      {
+        "id": "11",
+        "label": 10,
+        "count": 271
+      },
+      {
+        "id": "1",
+        "label": 0,
+        "count": 268
+      },
+      {
+        "id": "5",
+        "label": 4,
+        "count": 232
+      },
+      {
+        "id": "4",
+        "label": 3,
+        "count": 209
+      },
+      {
+        "id": "10",
+        "label": 9,
+        "count": 192
+      }
+    ],
+    "currency": [
+      {
+        "id": "usd",
+        "label": "USD",
+        "count": 2155
+      },
+      {
+        "id": "eur",
+        "label": "EUR",
+        "count": 1728
+      },
+      {
+        "id": "gbp",
+        "label": "GBP",
+        "count": 369
+      },
+      {
+        "id": "chf",
+        "label": "CHF",
+        "count": 178
+      },
+      {
+        "id": "jpy",
+        "label": "JPY",
+        "count": 35
+      },
+      {
+        "id": "mxn",
+        "label": "MXN",
+        "count": 23
+      },
+      {
+        "id": "sek",
+        "label": "SEK",
+        "count": 22
+      },
+      {
+        "id": "aud",
+        "label": "AUD",
+        "count": 11
+      },
+      {
+        "id": "cad",
+        "label": "CAD",
+        "count": 5
+      },
+      {
+        "id": "sgd",
+        "label": "SGD",
+        "count": 5
+      },
+      {
+        "id": "hkd",
+        "label": "HKD",
+        "count": 3
+      },
+      {
+        "id": "nzd",
+        "label": "NZD",
+        "count": 1
+      },
+      {
+        "id": "xeu",
+        "label": "XEU",
+        "count": 1
+      }
+    ],
+    "theme": [
+      {
+        "id": "real-estate",
+        "label": "Immobilien-ETFs",
+        "count": 35
+      },
+      {
+        "id": "defense",
+        "label": "Rüstungsindustrie",
+        "count": 18
+      },
+      {
+        "id": "derivatives",
+        "label": "Derivate",
+        "count": 18
+      },
+      {
+        "id": "bitcoin",
+        "label": "Bitcoin-ETFs",
+        "count": 16
+      },
+      {
+        "id": "artificial-intelligence",
+        "label": "Künstliche Intelligenz",
+        "count": 15
+      },
+      {
+        "id": "healthcare",
+        "label": "Gesundheit",
+        "count": 15
+      },
+      {
+        "id": "multi-asset",
+        "label": "Multi-Asset",
+        "count": 15
+      },
+      {
+        "id": "climate-change",
+        "label": "Klimawandel",
+        "count": 14
+      },
+      {
+        "id": "clean-energy",
+        "label": "Erneuerbare Energien",
+        "count": 13
+      },
+      {
+        "id": "ethereum",
+        "label": "Ethereum",
+        "count": 13
+      },
+      {
+        "id": "utilities",
+        "label": "Versorger-ETFs",
+        "count": 13
+      },
+      {
+        "id": "banks",
+        "label": "Bank-ETFs",
+        "count": 12
+      },
+      {
+        "id": "global-dividend",
+        "label": "Globale Dividenden-ETFs",
+        "count": 12
+      },
+      {
+        "id": "crypto",
+        "label": "Kryptowährungen",
+        "count": 11
+      },
+      {
+        "id": "cyber-security",
+        "label": "Cyber Security",
+        "count": 11
+      },
+      {
+        "id": "brands",
+        "label": "Starke Marken",
+        "count": 10
+      },
+      {
+        "id": "financials",
+        "label": "Finanzsektor-ETFs",
+        "count": 10
+      },
+      {
+        "id": "innovative-technologies",
+        "label": "Innovative Technologien",
+        "count": 10
+      },
+      {
+        "id": "automation-robotics",
+        "label": "Robotik-ETFs",
+        "count": 8
+      },
+      {
+        "id": "biotechnology",
+        "label": "Biotech-ETFs",
+        "count": 7
+      },
+      {
+        "id": "goldmines",
+        "label": "Goldminen",
+        "count": 7
+      },
+      {
+        "id": "hydrogen",
+        "label": "Wasserstoff",
+        "count": 7
+      },
+      {
+        "id": "uranium",
+        "label": "Uran",
+        "count": 7
+      },
+      {
+        "id": "water",
+        "label": "Wasser",
+        "count": 7
+      },
+      {
+        "id": "semiconductors",
+        "label": "Halbleiter",
+        "count": 6
+      },
+      {
+        "id": "blockchain",
+        "label": "Blockchain-ETFs",
+        "count": 5
+      },
+      {
+        "id": "consumer-goods",
+        "label": "Konsum",
+        "count": 5
+      },
+      {
+        "id": "digitalisation",
+        "label": "Digitalisierung",
+        "count": 5
+      },
+      {
+        "id": "e-mobility",
+        "label": "Elektromobilität",
+        "count": 5
+      },
+      {
+        "id": "future-of-food",
+        "label": "Future of Food",
+        "count": 5
+      },
+      {
+        "id": "infrastructure",
+        "label": "Infrastruktur",
+        "count": 5
+      },
+      {
+        "id": "insurance",
+        "label": "Versicherer-ETFs",
+        "count": 5
+      },
+      {
+        "id": "private-equity",
+        "label": "Private Equity",
+        "count": 5
+      },
+      {
+        "id": "aerospace",
+        "label": "Luft- und Raumfahrt",
+        "count": 4
+      },
+      {
+        "id": "battery",
+        "label": "Batterie-ETFs",
+        "count": 4
+      },
+      {
+        "id": "chemicals",
+        "label": "Chemie-ETFs",
+        "count": 4
+      },
+      {
+        "id": "circular-economy",
+        "label": "Kreislaufwirtschaft",
+        "count": 4
+      },
+      {
+        "id": "communication-services",
+        "label": "Telekommunikation-ETFs",
+        "count": 4
+      },
+      {
+        "id": "fintech",
+        "label": "Fintech",
+        "count": 4
+      },
+      {
+        "id": "islam-compliant",
+        "label": "Islam",
+        "count": 4
+      },
+      {
+        "id": "metaverse",
+        "label": "Metaverse",
+        "count": 4
+      },
+      {
+        "id": "moat",
+        "label": "Burggraben",
+        "count": 4
+      },
+      {
+        "id": "quantum-computing",
+        "label": "Quantencomputing-ETFs",
+        "count": 4
+      },
+      {
+        "id": "rare-earth",
+        "label": "Seltene Erden",
+        "count": 4
+      },
+      {
+        "id": "smart-city",
+        "label": "Smart City",
+        "count": 4
+      },
+      {
+        "id": "travel-leisure",
+        "label": "Reise & Freizeit",
+        "count": 4
+      },
+      {
+        "id": "automobile",
+        "label": "Automobilbranche-ETFs",
+        "count": 3
+      },
+      {
+        "id": "cloud-computing",
+        "label": "Cloud Computing",
+        "count": 3
+      },
+      {
+        "id": "e-sport",
+        "label": "E-Sport",
+        "count": 3
+      },
+      {
+        "id": "food-beverages",
+        "label": "Nahrungsmittel- und Getränkeindustrie",
+        "count": 3
+      },
+      {
+        "id": "ageing-population",
+        "label": "Alternde Gesellschaft-ETFs",
+        "count": 2
+      },
+      {
+        "id": "agriculture",
+        "label": "Landwirtschaft",
+        "count": 2
+      },
+      {
+        "id": "christian-principles",
+        "label": "Christliche Prinzipien",
+        "count": 2
+      },
+      {
+        "id": "digital-infrastructure-and-connectivity",
+        "label": "Digitale Infrastruktur und Konnektivität",
+        "count": 2
+      },
+      {
+        "id": "e-commerce",
+        "label": "E-Commerce",
+        "count": 2
+      },
+      {
+        "id": "gender-equality",
+        "label": "Geschlechtergleichheit",
+        "count": 2
+      },
+      {
+        "id": "luxury-lifestyle",
+        "label": "Luxus & Lifestyle",
+        "count": 2
+      },
+      {
+        "id": "master-limited-partnerships",
+        "label": "Master Limited Partnerships (MLP)",
+        "count": 2
+      },
+      {
+        "id": "med-tech",
+        "label": "Medizintechnik",
+        "count": 2
+      },
+      {
+        "id": "solar-energy",
+        "label": "Solarenergie",
+        "count": 2
+      },
+      {
+        "id": "timber-forestry",
+        "label": "Holz",
+        "count": 2
+      },
+      {
+        "id": "wind-energy",
+        "label": "Windenergie",
+        "count": 2
+      },
+      {
+        "id": "blue-economy",
+        "label": "Blue Economy",
+        "count": 1
+      },
+      {
+        "id": "digital-health",
+        "label": "Digitale Gesundheit",
+        "count": 1
+      },
+      {
+        "id": "digital-learning",
+        "label": "Digitales Lernen",
+        "count": 1
+      },
+      {
+        "id": "digital-payments",
+        "label": "Digitaler Zahlungsverkehr",
+        "count": 1
+      },
+      {
+        "id": "e-commerce-emerging-markets",
+        "label": "E-Commerce Emerging Markets",
+        "count": 1
+      },
+      {
+        "id": "e-commerce-logistic",
+        "label": "E-Commerce Logistic",
+        "count": 1
+      },
+      {
+        "id": "millennials",
+        "label": "Millennials",
+        "count": 1
+      },
+      {
+        "id": "silvermines",
+        "label": "Silberminen",
+        "count": 1
+      }
+    ],
+    "bond_rating": [
+      {
+        "id": "1191",
+        "label": "Investment Grade",
+        "count": 760
+      },
+      {
+        "id": "1193",
+        "label": "Sub Investment Grade",
+        "count": 120
+      },
+      {
+        "id": "1190",
+        "label": "AAA",
+        "count": 51
+      },
+      {
+        "id": "1192",
+        "label": "Gemischte Ratings",
+        "count": 49
+      }
+    ],
+    "guide_country": [
+      {
+        "id": "null",
+        "label": "",
+        "count": 4320
+      },
+      {
+        "id": "usa",
+        "label": "USA",
+        "count": 45
+      },
+      {
+        "id": "japan",
+        "label": "Japan",
+        "count": 32
+      },
+      {
+        "id": "great-britain",
+        "label": "Großbritannien",
+        "count": 24
+      },
+      {
+        "id": "china",
+        "label": "China",
+        "count": 23
+      },
+      {
+        "id": "germany",
+        "label": "Deutschland",
+        "count": 12
+      },
+      {
+        "id": "switzerland",
+        "label": "Schweiz",
+        "count": 10
+      },
+      {
+        "id": "india",
+        "label": "Indien",
+        "count": 8
+      },
+      {
+        "id": "france",
+        "label": "Frankreich",
+        "count": 6
+      },
+      {
+        "id": "south-korea",
+        "label": "Südkorea",
+        "count": 6
+      },
+      {
+        "id": "brazil",
+        "label": "Brasilien",
+        "count": 5
+      },
+      {
+        "id": "canada",
+        "label": "Kanada",
+        "count": 5
+      },
+      {
+        "id": "italy",
+        "label": "Italien",
+        "count": 5
+      },
+      {
+        "id": "taiwan",
+        "label": "Taiwan",
+        "count": 5
+      },
+      {
+        "id": "australia",
+        "label": "Australien",
+        "count": 4
+      },
+      {
+        "id": "spain",
+        "label": "Spanien",
+        "count": 4
+      },
+      {
+        "id": "indonesia",
+        "label": "Indonesien",
+        "count": 3
+      },
+      {
+        "id": "netherlands",
+        "label": "Niederlande",
+        "count": 3
+      },
+      {
+        "id": "saudi-arabia",
+        "label": "Saudi Arabien",
+        "count": 3
+      },
+      {
+        "id": "austria",
+        "label": "Österreich",
+        "count": 2
+      },
+      {
+        "id": "greece",
+        "label": "Griechenland",
+        "count": 2
+      },
+      {
+        "id": "mexico",
+        "label": "Mexiko",
+        "count": 2
+      },
+      {
+        "id": "turkey",
+        "label": "Türkei",
+        "count": 2
+      },
+      {
+        "id": "kuwait",
+        "label": "Kuwait",
+        "count": 1
+      },
+      {
+        "id": "poland",
+        "label": "Polen",
+        "count": 1
+      },
+      {
+        "id": "russia",
+        "label": "Russland",
+        "count": 1
+      },
+      {
+        "id": "south-africa",
+        "label": "Südafrika",
+        "count": 1
+      },
+      {
+        "id": "vietnam",
+        "label": "Vietnam",
+        "count": 1
+      }
+    ],
+    "broker_id": [
+      {
+        "id": "1236",
+        "label": "Scalable Capital",
+        "count": 3075
+      },
+      {
+        "id": "1231",
+        "label": "Trade Republic",
+        "count": 2830
+      },
+      {
+        "id": "1320",
+        "label": "Trading 212",
+        "count": 2798
+      },
+      {
+        "id": "1324",
+        "label": "Bitpanda",
+        "count": 2570
+      },
+      {
+        "id": "91",
+        "label": "S Broker",
+        "count": 2491
+      },
+      {
+        "id": "92",
+        "label": "Comdirect",
+        "count": 2223
+      },
+      {
+        "id": "1155",
+        "label": "Flatex",
+        "count": 2120
+      },
+      {
+        "id": "1165",
+        "label": "DKB",
+        "count": 2096
+      },
+      {
+        "id": "1300",
+        "label": "Traders Place",
+        "count": 1868
+      },
+      {
+        "id": "1238",
+        "label": "Finanzen.net Zero",
+        "count": 1773
+      },
+      {
+        "id": "1315",
+        "label": "N26",
+        "count": 1705
+      },
+      {
+        "id": "89",
+        "label": "Consorsbank",
+        "count": 1704
+      },
+      {
+        "id": "1234",
+        "label": "Smartbroker+",
+        "count": 1588
+      },
+      {
+        "id": "1157",
+        "label": "Finvesto",
+        "count": 1298
+      },
+      {
+        "id": "153",
+        "label": "1822direkt",
+        "count": 1195
+      },
+      {
+        "id": "155",
+        "label": "ING",
+        "count": 1190
+      },
+      {
+        "id": "1311",
+        "label": "Fidelity",
+        "count": 1058
+      },
+      {
+        "id": "1304",
+        "label": "XTB",
+        "count": 668
+      },
+      {
+        "id": "88",
+        "label": "maxblue",
+        "count": 472
+      },
+      {
+        "id": "1216",
+        "label": "Postbank",
+        "count": 472
+      },
+      {
+        "id": "1322",
+        "label": "Joe Broker",
+        "count": 412
+      },
+      {
+        "id": "1321",
+        "label": "eToro",
+        "count": 285
+      },
+      {
+        "id": "1239",
+        "label": "JustTrade",
+        "count": 237
+      },
+      {
+        "id": "1302",
+        "label": "Bux",
+        "count": 204
+      },
+      {
+        "id": "1323",
+        "label": "SelectETF",
+        "count": 193
+      },
+      {
+        "id": "1174",
+        "label": "Targobank",
+        "count": 91
+      }
+    ],
+    "hedged": [
+      {
+        "id": false,
+        "label": false,
+        "count": 3480
+      },
+      {
+        "id": true,
+        "label": true,
+        "count": 1056
+      }
+    ],
+    "tracking_difference_mean_yearly_sort": [
+      {
+        "id": "tracking_difference_mean_yearly_sort",
+        "label": "Tracking Differenz",
+        "count": 1554,
+        "min": -158.11873,
+        "max": 5031.49219
+      }
+    ],
+    "bond_type": [
+      {
+        "id": "1187",
+        "label": "Unternehmensanleihen",
+        "count": 618
+      },
+      {
+        "id": "1186",
+        "label": "Staatsanleihen",
+        "count": 548
+      },
+      {
+        "id": "1183",
+        "label": "Aggregat",
+        "count": 143
+      },
+      {
+        "id": "1184",
+        "label": "Inflationsgeschützte Anleihen",
+        "count": 52
+      },
+      {
+        "id": "1188",
+        "label": "Wandelanleihen",
+        "count": 19
+      },
+      {
+        "id": "1185",
+        "label": "Pfandbriefe",
+        "count": 11
+      },
+      {
+        "id": "1189",
+        "label": "Floater",
+        "count": 6
+      }
+    ],
+    "smart_beta": [
+      {
+        "id": "null",
+        "label": "",
+        "count": 4468
+      },
+      {
+        "id": "small-cap",
+        "label": "Small Cap",
+        "count": 23
+      },
+      {
+        "id": "low-volatility",
+        "label": "Low Volatility",
+        "count": 9
+      },
+      {
+        "id": "value",
+        "label": "Value",
+        "count": 8
+      },
+      {
+        "id": "equal-weight",
+        "label": "Equal Weight",
+        "count": 7
+      },
+      {
+        "id": "quality",
+        "label": "Quality",
+        "count": 7
+      },
+      {
+        "id": "momentum",
+        "label": "Momentum",
+        "count": 6
+      },
+      {
+        "id": "multi-factor",
+        "label": "Multi-Faktor",
+        "count": 4
+      },
+      {
+        "id": "buyback",
+        "label": "Buyback",
+        "count": 2
+      },
+      {
+        "id": "growth",
+        "label": "Growth",
+        "count": 2
+      }
+    ],
+    "product_type": [
+      {
+        "id": "etf",
+        "label": "ETF",
+        "count": 3953
+      },
+      {
+        "id": "etc",
+        "label": "ETC",
+        "count": 461
+      },
+      {
+        "id": "stock_tracker",
+        "label": "Stock Tracker",
+        "count": 122
+      }
+    ],
+    "number_of_holding": [
+      {
+        "id": "number_of_holding",
+        "label": "Enthaltene Werte",
+        "count": 691,
+        "min": 0,
+        "max": 21558
+      }
+    ],
+    "bond_strategy": [
+      {
+        "id": "1301",
+        "label": "Laufzeit-ETFs",
+        "count": 105
+      },
+      {
+        "id": "1210",
+        "label": "Sozial / Nachhaltigkeit",
+        "count": 64
+      },
+      {
+        "id": "1209",
+        "label": "Fundamental / Quality",
+        "count": 18
+      },
+      {
+        "id": "1226",
+        "label": "Zinskurve",
+        "count": 2
+      }
+    ],
+    "xlm": [
+      {
+        "id": "xlm",
+        "label": "XLM",
+        "count": 2435,
+        "min": 0.55,
+        "max": 1116.69995
+      }
+    ],
+    "bond_avg_credit_quality_rating": [
+      {
+        "id": "aaa",
+        "label": "AAA",
+        "count": 31
+      },
+      {
+        "id": "aa",
+        "label": "AA",
+        "count": 83
+      },
+      {
+        "id": "a",
+        "label": "A",
+        "count": 331
+      },
+      {
+        "id": "bbb",
+        "label": "BBB",
+        "count": 151
+      },
+      {
+        "id": "bb",
+        "label": "BB",
+        "count": 98
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "count": 199
+      },
+      {
+        "id": "below_b",
+        "label": "Unter B",
+        "count": 2
+      },
+      {
+        "id": "not_classified",
+        "label": "Nicht klassifiziert",
+        "count": 3640
+      }
+    ],
+    "strategy": [
+      {
+        "id": "74",
+        "label": "Dividendenstrategie",
+        "count": 155
+      },
+      {
+        "id": "1198",
+        "label": "Multi-Faktor",
+        "count": 71
+      },
+      {
+        "id": "81",
+        "label": "Small Cap",
+        "count": 58
+      },
+      {
+        "id": "1203",
+        "label": "Fundamental / Quality",
+        "count": 48
+      },
+      {
+        "id": "77",
+        "label": "Value Strategie",
+        "count": 45
+      },
+      {
+        "id": "1202",
+        "label": "Equal Weighted",
+        "count": 44
+      },
+      {
+        "id": "1",
+        "label": "Derivatestrategie",
+        "count": 43
+      },
+      {
+        "id": "1200",
+        "label": "Low Volatility",
+        "count": 37
+      },
+      {
+        "id": "80",
+        "label": "Mid Cap",
+        "count": 26
+      },
+      {
+        "id": "76",
+        "label": "Growth Strategie",
+        "count": 22
+      },
+      {
+        "id": "79",
+        "label": "Large Cap",
+        "count": 16
+      },
+      {
+        "id": "1166",
+        "label": "Momentum",
+        "count": 11
+      },
+      {
+        "id": "1219",
+        "label": "Preferred Shares",
+        "count": 6
+      },
+      {
+        "id": "78",
+        "label": "Islamic / Shariah",
+        "count": 5
+      },
+      {
+        "id": "1201",
+        "label": "Risk Weighted",
+        "count": 3
+      },
+      {
+        "id": "1204",
+        "label": "Aktienrückkauf",
+        "count": 3
+      },
+      {
+        "id": "94",
+        "label": "Volatilität",
+        "count": 2
+      },
+      {
+        "id": "95",
+        "label": "Christliche Prinzipien",
+        "count": 2
+      },
+      {
+        "id": "103",
+        "label": "Leveraged",
+        "count": 1
+      }
+    ],
+    "guide_region": [
+      {
+        "id": "null",
+        "label": "",
+        "count": 4410
+      },
+      {
+        "id": "developed-markets",
+        "label": "Industrieländer",
+        "count": 30
+      },
+      {
+        "id": "emerging-markets",
+        "label": "Emerging Markets",
+        "count": 30
+      },
+      {
+        "id": "europe",
+        "label": "Europa",
+        "count": 26
+      },
+      {
+        "id": "worldwide",
+        "label": "Welt",
+        "count": 15
+      },
+      {
+        "id": "north-america",
+        "label": "Nordamerika",
+        "count": 8
+      },
+      {
+        "id": "asia",
+        "label": "Asien",
+        "count": 6
+      },
+      {
+        "id": "latin-america",
+        "label": "Lateinamerika",
+        "count": 4
+      },
+      {
+        "id": "scandinavian",
+        "label": "Skandinavien",
+        "count": 3
+      },
+      {
+        "id": "africa",
+        "label": "Afrika",
+        "count": 2
+      },
+      {
+        "id": "eastern-europe",
+        "label": "Osteuropa",
+        "count": 2
+      }
+    ],
+    "fund_domicile": [
+      {
+        "id": "ie",
+        "label": "Irland",
+        "count": 2920
+      },
+      {
+        "id": "lu",
+        "label": "Luxemburg",
+        "count": 1058
+      },
+      {
+        "id": "de",
+        "label": "Deutschland",
+        "count": 231
+      },
+      {
+        "id": "je",
+        "label": "Jersey",
+        "count": 134
+      },
+      {
+        "id": "fr",
+        "label": "Frankreich",
+        "count": 75
+      },
+      {
+        "id": "ch",
+        "label": "Schweiz",
+        "count": 65
+      },
+      {
+        "id": "gb",
+        "label": "Vereinigtes Königreich (England)",
+        "count": 13
+      },
+      {
+        "id": "li",
+        "label": "Liechtenstein",
+        "count": 13
+      },
+      {
+        "id": "se",
+        "label": "Schweden",
+        "count": 13
+      },
+      {
+        "id": "nl",
+        "label": "Niederlande",
+        "count": 12
+      },
+      {
+        "id": "at",
+        "label": "Österreich",
+        "count": 1
+      },
+      {
+        "id": "gr",
+        "label": "Griechenland",
+        "count": 1
+      }
+    ]
+  }
+}
