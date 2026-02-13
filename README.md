@@ -60,4 +60,4 @@ Search for 500 ETFs with highest Sharpe ratio last year
     4.36 45.89505 LU0592216393 Xtrackers Spain UCITS ETF (Acc)
     4.36 45.93412 LU0994505336 Xtrackers Spain UCITS ETF (Dist)
 
-For more examples have a look at the jupyter notebooks in the [notebooks](https://github.com/asmaier/fondsweb/tree/main/notebooks) directory.
+For more examples have a look at the jupyter notebooks in the [notebooks](https://github.com/asmaier/extraetf/tree/main/notebooks) directory.
