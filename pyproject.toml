@@ -1,6 +1,6 @@
 [project]
 name = "extraetf_scraper"
-version = "0.1.0"
+version = "0.1.1"
 description = "Web scraper for ETF data from extraetf website."
 authors = [
     { name = "asmaier", email = "asmaier@web.de" }
