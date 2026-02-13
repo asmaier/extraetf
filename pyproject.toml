@@ -1,6 +1,6 @@
 [project]
 name = "extraetf-scraper"
-version = "0.1.2"
+version = "0.1.3"
 description = "Web scraper for ETF data from extraetf website."
 authors = [
     { name = "asmaier", email = "asmaier@web.de" }
@@ -18,14 +18,13 @@ classifiers = [
 
 requires-python = ">=3.12"
 dependencies = [
-    "pandas<2.4.0",
     "requests>=2.32.5",
 ]
 
 [dependency-groups]
 dev = [
-    "autogluon>=1.5.0",
     "jupyter>=1.1.1",
+    "pandas>=2.3.3",
     "plotly-express>=0.4.1",
     "pytest>=8.3.4",
     "ruff>=0.8.4",
